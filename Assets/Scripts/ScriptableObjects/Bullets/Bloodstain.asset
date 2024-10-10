@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ce41678c9b6de47bc5041a24d248a2, type: 3}
+  m_Name: Bloodstain
+  m_EditorClassIdentifier: 
+  title: Mancha de sangue
+  texts:
+  - text: "Uma mancha de sangue encontrada num dormit\xF3rio. Peko acredita que \xE9
+      de seu mestre, Fuyuhiko."
+    language: 0
+  - text: A bloodstain was found in a certain dormitory. Peko believes it is from
+      her master, Fuyuhiko.
+    language: 1
+  - text: "\u3042\u308B\u5BEE\u3067\u8840\u75D5\u304C\u898B\u3064\u304B\u308A\u307E\u3057\u305F\u3002\u30DA\u30B3\u306F\u305D\u308C\u304C\u5F7C\u5973\u306E\u4E3B\u4EBA\u3001\u30D5\u30E6\u30D2\u30B3\u306E\u3082\u306E\u3067\u3042\u308B\u3068\u4FE1\u3058\u3066\u3044\u307E\u3059\u3002"
+    language: 2
+  found: 0
+  triggerDialogue: {fileID: 11400000, guid: fccaf9a856e353e4bbbbbfa0f1ce7f8e, type: 2}

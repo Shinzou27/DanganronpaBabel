@@ -1,0 +1,11 @@
+Model Information:
+* title:	9 mm Pistol handgun with animation
+* source:	https://sketchfab.com/3d-models/9-mm-pistol-handgun-with-animation-302ee46ebd8943aa99ca13cf61f42a32
+* author:	dzubei777 (https://sketchfab.com/dzubei777)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "9 mm Pistol handgun with animation" (https://sketchfab.com/3d-models/9-mm-pistol-handgun-with-animation-302ee46ebd8943aa99ca13cf61f42a32) by dzubei777 (https://sketchfab.com/dzubei777) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

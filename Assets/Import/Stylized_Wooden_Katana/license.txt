@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Wooden Katana
+* source:	https://sketchfab.com/3d-models/stylized-wooden-katana-1bd266c598e9482e9b0ce5ed96340a91
+* author:	Blue Skies Forge (https://sketchfab.com/BlueSkiesForge)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Wooden Katana" (https://sketchfab.com/3d-models/stylized-wooden-katana-1bd266c598e9482e9b0ce5ed96340a91) by Blue Skies Forge (https://sketchfab.com/BlueSkiesForge) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

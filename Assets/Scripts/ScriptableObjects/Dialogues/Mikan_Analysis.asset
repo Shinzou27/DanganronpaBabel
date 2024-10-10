@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Mikan_Analysis
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "Hmm...Tive que me esfor\xE7ar bastante para entender o que aconteceu
+        aqui s\xF3 pela mancha."
+      language: 0
+    - text: Hmm... I had to work hard to understand what happened here just from
+        the stain.
+      language: 1
+    - text: "\u3046\u30FC\u3093...\u3053\u306E\u6C5A\u308C\u3060\u3051\u3067\u4F55\u304C\u8D77\u3053\u3063\u305F\u306E\u304B\u7406\u89E3\u3059\u308B\u306E\u306F\u5927\u5909\u3067\u3057\u305F\u3002"
+      language: 2
+    - text: "Hmm... Tuve que esforzarme mucho para entender lo que pas\xF3 aqu\xED
+        solo por la mancha."
+      language: 3
+    - text: "Hmm... Musia\u0142em si\u0119 mocno postara\u0107, \u017Ceby zrozumie\u0107,
+        co si\u0119 tu sta\u0142o, tylko na podstawie plamy."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: c80e45c09a5570747bd03f4e48b9e251,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "...Acho que quem quer que tenha feito isso...\xE9 algu\xE9m bastante
+        esperto..."
+      language: 0
+    - text: ...I think whoever did this... is quite smart...
+      language: 1
+    - text: "...\u3053\u308C\u3092\u3084\u3063\u305F\u4EBA\u306F...\u304B\u306A\u308A\u982D\u304C\u3044\u3044\u3068\u601D\u3044\u307E\u3059..."
+      language: 2
+    - text: ...Creo que quien haya hecho esto... es bastante inteligente...
+      language: 3
+    - text: "...My\u015Bl\u0119, \u017Ce ktokolwiek to zrobi\u0142... jest ca\u0142kiem
+        sprytny..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 5fb8cf2bfb63fdd47bcdff4e5a78e00f,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: O criminoso tentou forjar a arma do crime. O formato do respingo soa
+        como um golpe cortante...
+      language: 0
+    - text: The criminal tried to forge the murder weapon. The shape of the splash
+        looks like a cutting blow...
+      language: 1
+    - text: "\u72AF\u4EBA\u306F\u51F6\u5668\u3092\u634F\u9020\u3057\u3088\u3046\u3068\u3057\u307E\u3057\u305F\u3002\u98DB\u3073\u6563\u3063\u305F\u5F62\u306F\u5207\u65AD\u306E\u6253\u6483\u306E\u3088\u3046\u306B\u898B\u3048\u307E\u3059..."
+      language: 2
+    - text: "El criminal intent\xF3 falsificar el arma del crimen. La forma de la
+        salpicadura parece un golpe cortante..."
+      language: 3
+    - text: "Przest\u0119pca pr\xF3bowa\u0142 sfa\u0142szowa\u0107 narz\u0119dzie
+        zbrodni. Kszta\u0142t rozprysku wygl\u0105da jak ci\u0119cie..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: b177c3804999cb64bb1da36a2134f36b,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "...Mas a quantidade de sangue n\xE3o diz o mesmo... Ent\xE3o s\xF3 pode
+        ter sido uma pancada n\xE3o muito forte."
+      language: 0
+    - text: ...But the amount of blood doesn't say the same... So it must have been
+        a not very strong blow.
+      language: 1
+    - text: "...\u3057\u304B\u3057\u3001\u8840\u306E\u91CF\u306F\u540C\u3058\u3053\u3068\u3092\u793A\u3057\u3066\u3044\u307E\u305B\u3093...\u3060\u304B\u3089\u305D\u308C\u306F\u3042\u307E\u308A\u5F37\u304F\u306A\u3044\u6253\u6483\u3060\u3063\u305F\u306B\u9055\u3044\u3042\u308A\u307E\u305B\u3093\u3002"
+      language: 2
+    - text: "...Pero la cantidad de sangre no dice lo mismo... As\xED que debe haber
+        sido un golpe no muy fuerte."
+      language: 3
+    - text: "...Ale ilo\u015B\u0107 krwi nie m\xF3wi tego samego... Wi\u0119c musia\u0142
+        to by\u0107 niezbyt silny cios."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: b177c3804999cb64bb1da36a2134f36b,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "Como falei...quem fez isso \xE9 bastante habilidoso. O golpe foi dado
+        com a inten\xE7\xE3o de n\xE3o ser fatal..."
+      language: 0
+    - text: As I said... whoever did this is quite skilled. The blow was intended
+        not to be fatal...
+      language: 1
+    - text: "\u8A00\u3063\u305F\u3088\u3046\u306B...\u3053\u308C\u3092\u3084\u3063\u305F\u4EBA\u306F\u304B\u306A\u308A\u8155\u304C\u3044\u3044\u3067\u3059\u3002\u305D\u306E\u4E00\u6483\u306F\u81F4\u547D\u7684\u306A\u3082\u306E\u3067\u306F\u306A\u3044\u3088\u3046\u306B\u610F\u56F3\u3055\u308C\u3066\u3044\u307E\u3057\u305F..."
+      language: 2
+    - text: "Como dije... quien hizo esto es bastante h\xE1bil. El golpe fue dado
+        con la intenci\xF3n de no ser fatal..."
+      language: 3
+    - text: "Jak powiedzia\u0142em... kto to zrobi\u0142, jest do\u015B\u0107 zr\u0119czny.
+        Cios mia\u0142 nie by\u0107 \u015Bmiertelny..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: c80e45c09a5570747bd03f4e48b9e251,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "...Acho que \xE9 isso..."
+      language: 0
+    - text: ...I think that's it...
+      language: 1
+    - text: "...\u305D\u308C\u3067\u3044\u3044\u3068\u601D\u3044\u307E\u3059..."
+      language: 2
+    - text: ...Creo que eso es todo...
+      language: 3
+    - text: "...My\u015Bl\u0119, \u017Ce to wszystko..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: b177c3804999cb64bb1da36a2134f36b,
+      type: 3}

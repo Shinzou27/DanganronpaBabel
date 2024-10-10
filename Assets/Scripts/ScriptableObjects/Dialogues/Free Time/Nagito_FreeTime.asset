@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Nagito_FreeTime
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Ol\xE1, Hajime! ...N\xE3o temos tanto tempo a s\xF3s, ent\xE3o queria
+        te presentear com algo que significa bastante para mim."
+      language: 0
+    - text: Hello, Hajime! ...We don't have much time alone, so I wanted to give
+        you something that means a lot to me.
+      language: 1
+    - text: "\u3053\u3093\u306B\u3061\u306F\u3001\u306F\u3058\u3081\uFF01 ...\u79C1\u305F\u3061\u306F\u3042\u307E\u308A\u4E00\u7DD2\u306B\u3044\u308B\u6642\u9593\u304C\u306A\u3044\u306E\u3067\u3001\u79C1\u306B\u3068\u3063\u3066\u5927\u5207\u306A\u3082\u306E\u3092\u8D08\u308A\u305F\u3044\u3068\u601D\u3044\u307E\u3057\u305F\u3002"
+      language: 2
+    - text: "\xA1Hola, Hajime! ...No tenemos mucho tiempo a solas, as\xED que quer\xEDa
+        regalarte algo que significa mucho para m\xED."
+      language: 3
+    - text: "Cze\u015B\u0107, Hajime! ...Nie mamy zbyt wiele czasu tylko dla siebie,
+        wi\u0119c chcia\u0142em ci podarowa\u0107 co\u015B, co wiele dla mnie znaczy."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 3e8016faccae0f34cb2ef756dff660b8,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: Eu adoro basquete, sabia?
+      language: 0
+    - text: I love basketball, you know?
+      language: 1
+    - text: "\u79C1\u306F\u30D0\u30B9\u30B1\u30C3\u30C8\u30DC\u30FC\u30EB\u304C\u5927\u597D\u304D\u306A\u3093\u3067\u3059\u3001\u77E5\u3063\u3066\u3044\u307E\u3057\u305F\u304B\uFF1F"
+      language: 2
+    - text: "Me encanta el baloncesto, \xBFlo sab\xEDas?"
+      language: 3
+    - text: "Uwielbiam koszyk\xF3wk\u0119, wiesz?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 667bca5195d99ad4bb48461b5213394a,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Quero que aceite essa bola, e quando tivermos um tempinho a gente joga,
+        bel\xEA!?"
+      language: 0
+    - text: I want you to accept this ball, and when we have some free time we can
+        play, okay!?
+      language: 1
+    - text: "\u3053\u306E\u30DC\u30FC\u30EB\u3092\u53D7\u3051\u53D6\u3063\u3066\u307B\u3057\u3044\u3067\u3059\u3001\u305D\u3057\u3066\u6642\u9593\u304C\u3042\u308B\u3068\u304D\u306B\u4E00\u7DD2\u306B\u30D7\u30EC\u30A4\u3057\u307E\u3057\u3087\u3046\u3001\u3044\u3044\u3067\u3059\u304B\uFF01\uFF1F"
+      language: 2
+    - text: "\xA1Quiero que aceptes esta pelota, y cuando tengamos un tiempo podemos
+        jugar, \xBFvale!?"
+      language: 3
+    - text: "Chc\u0119, \u017Ceby\u015B przyj\u0105\u0142 t\u0119 pi\u0142k\u0119,
+        a gdy b\u0119dziemy mieli troch\u0119 wolnego czasu, zagramy, okej!?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 3e8016faccae0f34cb2ef756dff660b8,
+      type: 3}

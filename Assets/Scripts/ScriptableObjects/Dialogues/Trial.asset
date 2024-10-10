@@ -1,0 +1,681 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Trial
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 053ea635f2f52734a92784a81a50e98a, type: 2}
+    texts:
+    - text: "Certo, vamos come\xE7ar, ent\xE3o..."
+      language: 0
+    - text: Right, let's start then...
+      language: 1
+    - text: "\u305D\u3046\u3067\u3059\u306D\u3001\u3067\u306F\u59CB\u3081\u307E\u3057\u3087\u3046..."
+      language: 2
+    - text: De acuerdo, vamos a empezar entonces...
+      language: 3
+    - text: "Dobrze, zaczynajmy wi\u0119c..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 57fd11112a4194c4eb1e6a0247c88dcf,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 61ac4f2687126164287029d6264eaf75,
+      type: 3}
+  - character: {fileID: 11400000, guid: 053ea635f2f52734a92784a81a50e98a, type: 2}
+    texts:
+    - text: Quando chegamos aqui, todo mundo caiu no sono...
+      language: 0
+    - text: When we arrived here, everyone fell asleep...
+      language: 1
+    - text: "\u3053\u3053\u306B\u7740\u3044\u305F\u3068\u304D\u3001\u307F\u3093\u306A\u304C\u7720\u3063\u3066\u3057\u307E\u3063\u305F\u2026"
+      language: 2
+    - text: "Cuando llegamos aqu\xED, todos se durmieron..."
+      language: 3
+    - text: "Kiedy tu przyjechali\u015Bmy, wszyscy zasn\u0119li..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 37bbfa6dc37beb24f9b8ec027590d22c,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 9176edec23b35754cb7b056cc79d6e44,
+      type: 3}
+  - character: {fileID: 11400000, guid: 053ea635f2f52734a92784a81a50e98a, type: 2}
+    texts:
+    - text: E dormiu na frente da piscina.
+      language: 0
+    - text: And slept in front of the pool.
+      language: 1
+    - text: "\u305D\u3057\u3066\u3001\u30D7\u30FC\u30EB\u306E\u524D\u3067\u7720\u3063\u3066\u3057\u307E\u3063\u305F\u3002"
+      language: 2
+    - text: "Y durmi\xF3 frente a la piscina."
+      language: 3
+    - text: "I spa\u0142 przed basenem."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 5d90d310512a5114b9b081b59620227b,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: ef0f957414ed1cc48b84063780cae034,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: "Foi a\xED que a Sonia ouviu algo estranho...!"
+      language: 0
+    - text: That's when Sonia heard something strange...!
+      language: 1
+    - text: "\u305D\u3053\u3067\u30BD\u30CB\u30A2\u304C\u4F55\u304B\u5909\u306A\u97F3\u3092\u805E\u3044\u305F\u306E\u3067\u3059\u3088\u306D\u2026\uFF01"
+      language: 2
+    - text: "\xA1Ah\xED fue cuando Sonia escuch\xF3 algo extra\xF1o...!"
+      language: 3
+    - text: "To wtedy Sonia us\u0142ysza\u0142a co\u015B dziwnego...!"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 7077044da39279b409cbefc05c98a89b,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: f6eed13e735ce0547ae4c6f349ad33f1,
+      type: 3}
+  - character: {fileID: 11400000, guid: 03cf1dadac51b0049974b0802e7e5b67, type: 2}
+    texts:
+    - text: "Na verdade, foi a Ibuki que ouviu algu\xE9m chamando o Fuyuhiko, n\xE3o
+        foi?"
+      language: 0
+    - text: Actually, it was Ibuki who heard someone calling Fuyuhiko, wasn't it?
+      language: 1
+    - text: "\u5B9F\u306F\u3001\u30A4\u30D6\u30AD\u304C\u51AC\u5F66\u3092\u547C\u3076\u58F0\u3092\u805E\u3044\u305F\u306E\u306F\u2026"
+      language: 2
+    - text: "En realidad, fue Ibuki quien escuch\xF3 a alguien llamar a Fuyuhiko,
+        \xBFverdad?"
+      language: 3
+    - text: "Tak naprawd\u0119 to Ibuki us\u0142ysza\u0142a, jak kto\u015B wo\u0142a\u0142
+        Fuyuhiko, prawda?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 197cd2e00a666814b898dc2f14879c4e,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 3bdb5a9f25e3f3e409927583f6f6e258,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: Positivo!
+      language: 0
+    - text: Positive!
+      language: 1
+    - text: "\u305D\u306E\u901A\u308A\u3067\u3059\uFF01"
+      language: 2
+    - text: "\xA1Positivo!"
+      language: 3
+    - text: Pozytywnie!
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: e6695b6b7fd9a144cb813db5c46e1fc0,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 7c44e9b84d9137f40a61405924b37448,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: "Entendi. Perd\xE3o, minha cabe\xE7a est\xE1 nas nuvens ultimamente..."
+      language: 0
+    - text: I see. Sorry, my head has been in the clouds lately...
+      language: 1
+    - text: "\u3059\u307F\u307E\u305B\u3093\u3001\u6700\u8FD1\u3001\u3046\u3063\u304B\u308A\u3057\u3066\u3044\u307E\u3059\u2026"
+      language: 2
+    - text: "Entiendo. Perd\xF3n, mi cabeza ha estado en las nubes \xFAltimamente..."
+      language: 3
+    - text: "Rozumiem. Przepraszam, ostatnio mam g\u0142ow\u0119 w chmurach..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: ee2f9e484e05b694498d902bb9c87522,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 2ccf883fe2626e9469c82a304bdadcfd,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: A Ibuki percebeu que eu estava acordado...
+      language: 0
+    - text: Ibuki noticed I was awake...
+      language: 1
+    - text: "\u30A4\u30D6\u30AD\u304C\u79C1\u304C\u76EE\u3092\u899A\u307E\u3057\u305F\u306E\u306B\u6C17\u3065\u3044\u3066\u2026"
+      language: 2
+    - text: Ibuki se dio cuenta de que estaba despierto...
+      language: 3
+    - text: "Ibuki zauwa\u017Cy\u0142a, \u017Ce jestem obudzony..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: af43b12a74c4a5d42819cb5024c94ace,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: "E eu acabei vendo o Fuyuhiko sendo levado por algu\xE9m!"
+      language: 0
+    - text: And I ended up seeing Fuyuhiko being taken by someone!
+      language: 1
+    - text: "\u305D\u3057\u3066\u3001\u8AB0\u304B\u304C\u51AC\u5F66\u3092\u9023\u308C\u53BB\u308B\u306E\u3092\u898B\u3066\u3057\u307E\u3063\u305F\uFF01"
+      language: 2
+    - text: "\xA1Y termin\xE9 viendo a Fuyuhiko siendo llevado por alguien!"
+      language: 3
+    - text: "I zobaczy\u0142em, jak Fuyuhiko zosta\u0142 zabrany przez kogo\u015B!"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: af43b12a74c4a5d42819cb5024c94ace,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: 2c111ab0f335ddb4cace4d3f48649368, type: 2}
+    texts:
+    - text: "Esse algu\xE9m, por acaso, seria..."
+      language: 0
+    - text: Would that someone happen to be...
+      language: 1
+    - text: "\u305D\u306E\u8AB0\u304B\u3068\u3044\u3046\u306E\u306F\u3001\u305F\u3068\u3048\u3070\u2026"
+      language: 2
+    - text: "\xBFEsa persona, por casualidad, ser\xEDa..."
+      language: 3
+    - text: "Czy to kto\u015B przypadkiem by\u0142..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 0c5cdfd22e4684842b30ca742e4f941c,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 9d91a43592f924447b5e87b3ed8f1941,
+      type: 3}
+  - character: {fileID: 11400000, guid: 2c111ab0f335ddb4cace4d3f48649368, type: 2}
+    texts:
+    - text: O Hajime!?
+      language: 0
+    - text: Hajime!?
+      language: 1
+    - text: "\u4E00\u6F84\u304F\u3093\uFF01\uFF1F"
+      language: 2
+    - text: "\xA1Hajime!?"
+      language: 3
+    - text: Hajime!?
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: d22a5023c7c4ec648876c3b5b586aa12,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: de5c7732f8464b34886b526347ef75c3,
+      type: 3}
+  - character: {fileID: 11400000, guid: 03cf1dadac51b0049974b0802e7e5b67, type: 2}
+    texts:
+    - text: "N\xE3o! Claro que n\xE3o! Nekomaru me disse que foi o Nagito."
+      language: 0
+    - text: No! Of course not! Nekomaru told me it was Nagito.
+      language: 1
+    - text: "\u3044\u3044\u3048\uFF01 \u3082\u3061\u308D\u3093\u9055\u3044\u307E\u3059\uFF01
+        \u30CD\u30B3\u30DE\u30EB\u306B\u3088\u308B\u3068\u3001\u305D\u308C\u306F\u30CA\u30AE\u30C8\u3060\u3063\u305F\u3068\u8A00\u3063\u3066\u3044\u307E\u3057\u305F\u3002"
+      language: 2
+    - text: "\xA1No! \xA1Por supuesto que no! Nekomaru me dijo que fue Nagito."
+      language: 3
+    - text: "Nie! Oczywi\u015Bcie, \u017Ce nie! Nekomaru powiedzia\u0142 mi, \u017Ce
+        to by\u0142 Nagito."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 3b560f245e9a1674ab2f39a3ed921cfe,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 3bdb5a9f25e3f3e409927583f6f6e258,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: Hm...
+      language: 0
+    - text: Hm...
+      language: 1
+    - text: "\u3046\u30FC\u3093\u2026"
+      language: 2
+    - text: Hmm...
+      language: 3
+    - text: Hm...
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 33aca8cce676230429ddbd5c5c625ab3,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 3e8016faccae0f34cb2ef756dff660b8,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: Sim, foi isso que aconteceu.
+      language: 0
+    - text: Yes, that's what happened.
+      language: 1
+    - text: "\u306F\u3044\u3001\u305D\u306E\u901A\u308A\u3067\u3057\u305F\u3002"
+      language: 2
+    - text: "S\xED, eso es lo que pas\xF3."
+      language: 3
+    - text: "Tak, to si\u0119 sta\u0142o."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: af43b12a74c4a5d42819cb5024c94ace,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9c57f08590658d645b4ef1f78eb43f67, type: 2}
+    texts:
+    - text: "Ent\xE3o o Nagito sequestrou o Fuyuhiko?"
+      language: 0
+    - text: So Nagito kidnapped Fuyuhiko?
+      language: 1
+    - text: "\u3067\u306F\u3001\u30CA\u30AE\u30C8\u304C\u51AC\u5F66\u3092\u8A98\u62D0\u3057\u305F\u306E\u3067\u3057\u3087\u3046\u304B\uFF1F"
+      language: 2
+    - text: "\xBFEntonces Nagito secuestr\xF3 a Fuyuhiko?"
+      language: 3
+    - text: "Czyli Nagito porwa\u0142 Fuyuhiko?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: d3f36f673e7b5b04ba0d6847cf07ad8b,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: e3e3ed7ba898eac46be77001f0d0bf95,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Ser\xE1?"
+      language: 0
+    - text: Will he?
+      language: 1
+    - text: "\u305D\u3046\u601D\u3046\uFF1F"
+      language: 2
+    - text: "\xBFLo har\xE1?"
+      language: 3
+    - text: Czy tak?
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 5aae0fa261243434f9b8b8b665f67550,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 667bca5195d99ad4bb48461b5213394a,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Ent\xE3o, Hajime, o que voc\xEA acha?"
+      language: 0
+    - text: So, Hajime, what do you think?
+      language: 1
+    - text: "\u3069\u3046\u601D\u3044\u307E\u3059\u304B\u3001\u4E00\u6F84\u304F\u3093\uFF1F"
+      language: 2
+    - text: "Entonces, Hajime, \xBFqu\xE9 piensas?"
+      language: 3
+    - text: "Wi\u0119c, Hajime, co o tym s\u0105dzisz?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 5aae0fa261243434f9b8b8b665f67550,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 667bca5195d99ad4bb48461b5213394a,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Quando voc\xEA veio no meu quarto, ontem, e olhou nos meus olhos..."
+      language: 0
+    - text: When you came to my room yesterday and looked into my eyes...
+      language: 1
+    - text: "\u6628\u65E5\u3001\u79C1\u306E\u90E8\u5C4B\u306B\u6765\u3066\u3001\u79C1\u306E\u76EE\u3092\u898B\u305F\u3068\u304D\u2026"
+      language: 2
+    - text: "Cuando viniste a mi habitaci\xF3n ayer y me miraste a los ojos..."
+      language: 3
+    - text: "Kiedy wczoraj przyszed\u0142e\u015B do mojego pokoju i spojrza\u0142e\u015B
+        mi w oczy..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 5aae0fa261243434f9b8b8b665f67550,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 667bca5195d99ad4bb48461b5213394a,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: Acha mesmo que eram os olhos de um criminoso?
+      language: 0
+    - text: Do you really think those were the eyes of a criminal?
+      language: 1
+    - text: "\u672C\u5F53\u306B\u72AF\u7F6A\u8005\u306E\u76EE\u3060\u3068\u601D\u3044\u307E\u3057\u305F\u304B\uFF1F"
+      language: 2
+    - text: "\xBFRealmente crees que esos eran los ojos de un criminal?"
+      language: 3
+    - text: "Czy naprawd\u0119 my\u015Blisz, \u017Ce to by\u0142y oczy przest\u0119pcy?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 5aae0fa261243434f9b8b8b665f67550,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 667bca5195d99ad4bb48461b5213394a,
+      type: 3}
+  - character: {fileID: 11400000, guid: 2c61b26b5ae423942bd02c630112a7f2, type: 2}
+    texts:
+    - text: "Nagito, voc\xEA n\xE3o t\xE1 bem, n\xE9?"
+      language: 0
+    - text: Nagito, you're not okay, are you?
+      language: 1
+    - text: "\u30CA\u30AE\u30C8\u3001\u5927\u4E08\u592B\u3058\u3083\u306A\u3044\u3088\u306D\uFF1F"
+      language: 2
+    - text: "Nagito, no est\xE1s bien, \xBFverdad?"
+      language: 3
+    - text: Nagito, nic ci nie jest, prawda?
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 8c40c47a41bc8954983c675829715333,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: b70cb2291a4a0ac47bcb685689537896,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "T\xF4 \xF3timo, Gundham! Ali\xE1s, seu machucado na perna j\xE1 melhorou?"
+      language: 0
+    - text: I'm great, Gundham! By the way, has your leg injury gotten better yet?
+      language: 1
+    - text: "\u3059\u3054\u3044\u3088\u3001\u30AC\u30F3\u30C0\u30E0\uFF01\u3068\u3053\u308D\u3067\u3001\u8DB3\u306E\u602A\u6211\u306F\u3082\u3046\u826F\u304F\u306A\u308A\u307E\u3057\u305F\u304B\uFF1F"
+      language: 2
+    - text: "\xA1Estoy bien, Gundham! Por cierto, \xBFya ha mejorado tu lesi\xF3n
+        en la pierna?"
+      language: 3
+    - text: "Nic mi nie jest, Gundhamie! A tak przy okazji, czy stan twojej nogi
+        ju\u017C si\u0119 poprawi\u0142?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 33aca8cce676230429ddbd5c5c625ab3,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 3e8016faccae0f34cb2ef756dff660b8,
+      type: 3}
+  - character: {fileID: 11400000, guid: 03cf1dadac51b0049974b0802e7e5b67, type: 2}
+    texts:
+    - text: Nagito, o que isso deveria significar?
+      language: 0
+    - text: Nagito, what is this supposed to mean?
+      language: 1
+    - text: "\u30CA\u30AE\u30C8\u3001\u3053\u308C\u306F\u4F55\u3092\u610F\u5473\u3059\u308B\u306E\u3067\u3057\u3087\u3046\u304B\uFF1F"
+      language: 2
+    - text: "Nagito, \xBFqu\xE9 se supone que significa esto?"
+      language: 3
+    - text: "Nagito, co to mia\u0142o znaczy\u0107?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 9aa29304b535b1a4a91ca4d33737f721,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 3bdb5a9f25e3f3e409927583f6f6e258,
+      type: 3}
+  - character: {fileID: 11400000, guid: 03cf1dadac51b0049974b0802e7e5b67, type: 2}
+    texts:
+    - text: "Lembro que ontem mesmo voc\xEA me perguntou a mesma coisa."
+      language: 0
+    - text: I remember you asked me the same thing yesterday.
+      language: 1
+    - text: "\u6628\u65E5\u3001\u540C\u3058\u3053\u3068\u3092\u79C1\u306B\u805E\u3044\u305F\u3053\u3068\u3092\u899A\u3048\u3066\u3044\u307E\u3059\u3002"
+      language: 2
+    - text: Recuerdo que ayer me preguntaste lo mismo.
+      language: 3
+    - text: "Pami\u0119tam, \u017Ce wczoraj pyta\u0142e\u015B mnie o to samo."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 9aa29304b535b1a4a91ca4d33737f721,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 3bdb5a9f25e3f3e409927583f6f6e258,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Hmm... N\xE3o sei. Acho que meu c\xE9rebro n\xE3o t\xE1 funcionando
+        bem."
+      language: 0
+    - text: Hmm... I don't know. I think my brain isn't working well.
+      language: 1
+    - text: "\u3046\u30FC\u3093\u2026 \u78BA\u304B\u306B\u3001\u6700\u8FD1\u3001\u982D\u304C\u3042\u307E\u308A\u50CD\u3044\u3066\u3044\u307E\u305B\u3093\u3002"
+      language: 2
+    - text: "Hmm... No s\xE9. Creo que mi cerebro no est\xE1 funcionando bien."
+      language: 3
+    - text: "Hmm... Nie wiem. Chyba m\xF3j m\xF3zg nie dzia\u0142a dobrze."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: fa78b58a038f6a749944bff86365d2bc,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: d23b02ed3da0d844eb195c4997875802,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Desde que chegamos \xE0 essa ilha tenho tido flashes de mem\xF3ria meio
+        estranhos."
+      language: 0
+    - text: Since we arrived on this island, I've been having some strange memory
+        flashes.
+      language: 1
+    - text: "\u3053\u306E\u5CF6\u306B\u6765\u3066\u304B\u3089\u3001\u4E0D\u601D\u8B70\u306A\u8A18\u61B6\u306E\u4E00\u90E8\u304C\u30D5\u30E9\u30C3\u30B7\u30E5\u30D0\u30C3\u30AF\u3057\u3066\u3044\u307E\u3059\u3002"
+      language: 2
+    - text: "Desde que llegamos a esta isla, he tenido algunos recuerdos extra\xF1os."
+      language: 3
+    - text: "Od kiedy przyjechali\u015Bmy na t\u0119 wysp\u0119, mam troch\u0119
+        dziwnych wspomnie\u0144."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: fa78b58a038f6a749944bff86365d2bc,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: d23b02ed3da0d844eb195c4997875802,
+      type: 3}
+  - character: {fileID: 11400000, guid: 6728ac7351e72ff46ae2e931014201bb, type: 2}
+    texts:
+    - text: Deixa ele. Vamos voltar ao que interessa...
+      language: 0
+    - text: Leave him. Let's get back to what matters...
+      language: 1
+    - text: "\u305D\u308C\u306F\u3044\u3044\u3088\u3002 \u6211\u3005\u304C\u95A2\u5FC3\u3092\u6301\u3064\u3053\u3068\u306B\u623B\u308A\u307E\u3057\u3087\u3046\u2026"
+      language: 2
+    - text: "D\xE9jalo. Volvamos a lo que importa..."
+      language: 3
+    - text: "Zostaw go. Wr\xF3\u0107my do sedna..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: aec0b2f62bd8cfc49b910f0998de149b,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 17afbbb010fad6943bb3194dfe178ea5,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: Ah! Ontem, eu e o Hajime encontramos uma mancha de sangue na frente do
+        quarto do Nagito.
+      language: 0
+    - text: Ah! Yesterday, Hajime and I found a blood stain in front of Nagito's
+        room.
+      language: 1
+    - text: "\u3042\uFF01 \u6628\u65E5\u3001\u79C1\u305F\u3061\u306F\u30CA\u30AE\u30C8\u306E\u90E8\u5C4B\u306E\u524D\u3067\u8840\u306E\u8DE1\u3092\u898B\u3064\u3051\u307E\u3057\u305F\u3002"
+      language: 2
+    - text: "\xA1Ah! Ayer, Hajime y yo encontramos una mancha de sangre frente a
+        la habitaci\xF3n de Nagito."
+      language: 3
+    - text: "Ah! Wczoraj ja i Hajime znale\u017Ali\u015Bmy plam\u0119 krwi przed
+        pokojem Nagito."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 7077044da39279b409cbefc05c98a89b,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: f6eed13e735ce0547ae4c6f349ad33f1,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: Aquilo claramente foi um golpe de faca.
+      language: 0
+    - text: That was clearly a knife wound.
+      language: 1
+    - text: "\u305D\u308C\u306F\u660E\u3089\u304B\u306B\u30CA\u30A4\u30D5\u3067\u306E\u4E00\u6483\u3060\u3063\u305F\u3002"
+      language: 2
+    - text: Eso claramente fue una herida de cuchillo.
+      language: 3
+    - text: "To by\u0142o jasne ci\u0119cie no\u017Cem."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 7077044da39279b409cbefc05c98a89b,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: f6eed13e735ce0547ae4c6f349ad33f1,
+      type: 3}
+  - character: {fileID: 11400000, guid: 03cf1dadac51b0049974b0802e7e5b67, type: 2}
+    texts:
+    - text: Peko, acho que a Mikan tem algo a dizer sobre isso.
+      language: 0
+    - text: Peko, I think Mikan has something to say about it.
+      language: 1
+    - text: "\u30DA\u30B3\u3001\u30DF\u30AB\u30F3\u306F\u3053\u308C\u306B\u3064\u3044\u3066\u4F55\u304B\u8A00\u3044\u305F\u3044\u3053\u3068\u304C\u3042\u308B\u3068\u601D\u3046\u3002"
+      language: 2
+    - text: Peko, creo que Mikan tiene algo que decir al respecto.
+      language: 3
+    - text: "Peko, my\u015Bl\u0119, \u017Ce Mikan ma co\u015B do powiedzenia na ten
+        temat."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 197cd2e00a666814b898dc2f14879c4e,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 3bdb5a9f25e3f3e409927583f6f6e258,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "Sim... N\xF3s investigamos depois essa mancha..."
+      language: 0
+    - text: Yes... We investigated that stain later...
+      language: 1
+    - text: "\u306F\u3044\u2026 \u305D\u306E\u5F8C\u3001\u79C1\u305F\u3061\u306F\u305D\u306E\u8840\u75D5\u3092\u8ABF\u67FB\u3057\u307E\u3057\u305F\u2026"
+      language: 2
+    - text: "S\xED... Investigamos esa mancha m\xE1s tarde..."
+      language: 3
+    - text: "Tak... P\xF3\u017Aniej zbadali\u015Bmy t\u0119 plam\u0119..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: d5b696330147f7f4e93468fe9a691072,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 5fb8cf2bfb63fdd47bcdff4e5a78e00f,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: '!?'
+      language: 0
+    - text: '!'
+      language: 1
+    - text: "\uFF01\uFF1F"
+      language: 2
+    - text: "\xA1\xBF?!"
+      language: 3
+    - text: ?!
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 4fb7c0fef366d8a439281e6bd907316d,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 5f705663ddfc231458c3ae80c4254e38,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: Ao que parece... o sangue veio... de uma pancada forte.
+      language: 0
+    - text: It seems... the blood came... from a strong blow.
+      language: 1
+    - text: "\u3069\u3046\u3084\u3089\u2026 \u305D\u306E\u8840\u306F\u3001\u5F37\u3044\u6253\u64B2\u3067\u51FA\u305F\u3088\u3046\u3067\u3059\u3002"
+      language: 2
+    - text: Parece que... la sangre vino... de un golpe fuerte.
+      language: 3
+    - text: "Wygl\u0105da na to, \u017Ce... krew przysz\u0142a... od mocnego uderzenia."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 5bf27f8d0eb40ca45a614beefa60fa8f,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: c80e45c09a5570747bd03f4e48b9e251,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: ...
+      language: 0
+    - text: ...
+      language: 1
+    - text: "\u2026"
+      language: 2
+    - text: ...
+      language: 3
+    - text: ...
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 4fb7c0fef366d8a439281e6bd907316d,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 5f705663ddfc231458c3ae80c4254e38,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "N\xE3o queria dizer nada... mas um objeto pesado como uma espada...
+        poderia..."
+      language: 0
+    - text: I didn't want to say anything... but a heavy object like a sword... could...
+      language: 1
+    - text: "\u4F55\u3082\u8A00\u3044\u305F\u304F\u306A\u3044\u3051\u3069\u3001\u5263\u306E\u3088\u3046\u306A\u91CD\u3044\u7269\u304C\u2026"
+      language: 2
+    - text: "No quer\xEDa decir nada... pero un objeto pesado como una espada...
+        podr\xEDa..."
+      language: 3
+    - text: "Nie chcia\u0142em nic m\xF3wi\u0107... ale ci\u0119\u017Cki przedmiot,
+        jak miecz... m\xF3g\u0142by..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 2da51f4b7e7cbdb4cb55dad142d1e091,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: d51e91ecb47761d4aa3501974c9e0a70,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: "Ei, Mikan, o que voc\xEA est\xE1 querendo dizer?"
+      language: 0
+    - text: Hey, Mikan, what are you trying to say?
+      language: 1
+    - text: "\u30DF\u30AB\u30F3\u3001\u4F55\u304C\u8A00\u3044\u305F\u3044\u306E\uFF1F"
+      language: 2
+    - text: "Oye, Mikan, \xBFqu\xE9 est\xE1s tratando de decir?"
+      language: 3
+    - text: Hej, Mikan, o co chodzi?
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 51b043d05773fe84f809bf93b5fc7928,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 6714833f75bf8f0419044cbe944a6619,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9349e9e788a0efd429d6a6d1bb591abf, type: 2}
+    texts:
+    - text: "Peko, por favor, seja sincera conosco. Voc\xEA tamb\xE9m estava acordada
+        ontem \xE0 noite?"
+      language: 0
+    - text: Peko, please be honest with us. Were you also awake last night?
+      language: 1
+    - text: "\u30DA\u30B3\u3001\u6B63\u76F4\u306B\u8A71\u3057\u3066\u304F\u3060\u3055\u3044\u3002
+        \u3042\u306A\u305F\u3082\u6628\u591C\u3001\u8D77\u304D\u3066\u3044\u307E\u3057\u305F\u304B\uFF1F"
+      language: 2
+    - text: "Peko, por favor, s\xE9 honesta con nosotros. \xBFTambi\xE9n estabas
+        despierta anoche?"
+      language: 3
+    - text: "Peko, prosz\u0119, b\u0105d\u017A szczera z nami. Czy te\u017C by\u0142a\u015B
+        wczoraj wieczorem obudzona?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 266c02939df8cf44c971c0b731ee2bf0,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: e8b54b352111ec04cae9f3faefff0adc,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: ...
+      language: 0
+    - text: ...
+      language: 1
+    - text: "\u2026"
+      language: 2
+    - text: ...
+      language: 3
+    - text: ...
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 4fb7c0fef366d8a439281e6bd907316d,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 5f705663ddfc231458c3ae80c4254e38,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9d21daa6836ccef4a8a840713b58c8bf, type: 2}
+    texts:
+    - text: "Bom, acho que j\xE1 entendemos tudo que aconteceu, n\xE9?"
+      language: 0
+    - text: Well, I guess we understand everything that happened, right?
+      language: 1
+    - text: "\u307E\u3042\u3001\u79C1\u305F\u3061\u304C\u4F55\u304C\u8D77\u3053\u3063\u305F\u304B\u3092\u7406\u89E3\u3057\u305F\u3068\u601D\u3044\u307E\u3059\u306D\uFF1F"
+      language: 2
+    - text: "Bueno, supongo que entendemos todo lo que pas\xF3, \xBFverdad?"
+      language: 3
+    - text: "No c\xF3\u017C, my\u015Bl\u0119, \u017Ce rozumiemy wszystko, co si\u0119
+        sta\u0142o, prawda?"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 1f545e52cbb2ee448a846aad514f8e7d,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 444ca26fdbc392b4cb12fdc7c8689291,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9349e9e788a0efd429d6a6d1bb591abf, type: 2}
+    texts:
+    - text: "Hajime... Como foi voc\xEA quem participou ativamente dessa investiga\xE7\xE3o..."
+      language: 0
+    - text: Hajime... Since you were actively involved in this investigation...
+      language: 1
+    - text: "\u4E00\u6F84\u304F\u3093\u2026 \u3042\u306A\u305F\u304C\u3053\u306E\u8ABF\u67FB\u3067\u7A4D\u6975\u7684\u306B\u53C2\u52A0\u3057\u305F\u306E\u3067\u2026"
+      language: 2
+    - text: "Hajime... Como t\xFA participaste activamente en esta investigaci\xF3n..."
+      language: 3
+    - text: "Hajime... Skoro by\u0142e\u015B aktywnie zaanga\u017Cowany w to \u015Bledztwo..."
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 5147901f10ed9424084f26a64c897b76,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: b7727aa17e5f4fd479cb34abf6fecef1,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9349e9e788a0efd429d6a6d1bb591abf, type: 2}
+    texts:
+    - text: "Diga-nos quem \xE9 o verdadeiro culpado pelo sumi\xE7o do Fuyuhiko!"
+      language: 0
+    - text: Tell us who the real culprit is for Fuyuhiko's disappearance!
+      language: 1
+    - text: "\u51AC\u5F66\u306E\u5931\u8E2A\u306E\u771F\u72AF\u4EBA\u3092\u6559\u3048\u3066\u304F\u3060\u3055\u3044\uFF01"
+      language: 2
+    - text: "\xA1Dinos qui\xE9n es el verdadero culpable de la desaparici\xF3n de
+        Fuyuhiko!"
+      language: 3
+    - text: "Powiedz nam, kto jest prawdziwym winowajc\u0105 znikni\u0119cia Fuyuhiko!"
+      language: 4
+    halfBodyExpression: {fileID: 21300000, guid: 935c4eb11b5569e4bbde4330cb4bb1cd,
+      type: 3}
+    fullBodyExpression: {fileID: 21300000, guid: 20850149bc491e04fa325901a3b2d0c9,
+      type: 3}

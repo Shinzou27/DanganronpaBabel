@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c444833371021a7498362ef75ed14710, type: 3}
+  m_Name: Chiaki
+  m_EditorClassIdentifier: 
+  characterName: Chiaki Nanami
+  characterIndex: 2
+  halfBodySprites:
+  - {fileID: 21300000, guid: aec0b2f62bd8cfc49b910f0998de149b, type: 3}
+  - {fileID: 21300000, guid: 81da879ea6fa0d442830014c00b3fb32, type: 3}
+  pixelSprite: {fileID: 21300000, guid: 8ea86c48b323030458e5ea740fc704f8, type: 3}
+  fullBodySprite: {fileID: 21300000, guid: 17afbbb010fad6943bb3194dfe178ea5, type: 3}
+  buffObject: {fileID: 7553164146133992273, guid: a2d84fa617d4859459c8816cf8381868,
+    type: 3}
+  freeTimeDialogue: {fileID: 11400000, guid: b2dc44471c68f6a429d409c32b82a198, type: 2}

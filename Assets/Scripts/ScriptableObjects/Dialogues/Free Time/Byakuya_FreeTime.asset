@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Byakuya_FreeTime
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 96405c919c1886944adc4901ab13a968, type: 2}
+    texts:
+    - text: "Ol\xE1, Hajime. ...N\xE3o temos tanto tempo a s\xF3s, e nem quero falar
+        contigo."
+      language: 0
+    - text: Hello, Hajime. ...We don't have much time alone, and I don't even want
+        to talk to you.
+      language: 1
+    - text: "\u3053\u3093\u306B\u3061\u306F\u3001\u306F\u3058\u3081\u3002 ...\u79C1\u305F\u3061\u306F\u3042\u307E\u308A\u4E00\u7DD2\u306B\u3044\u308B\u6642\u9593\u304C\u306A\u3044\u3057\u3001\u3042\u306A\u305F\u3068\u8A71\u3057\u305F\u304F\u3082\u3042\u308A\u307E\u305B\u3093\u3002"
+      language: 2
+    - text: Hola, Hajime. ...No tenemos mucho tiempo a solas, y ni siquiera quiero
+        hablar contigo.
+      language: 3
+    - text: "Cze\u015B\u0107, Hajime. ...Nie mamy zbyt wiele czasu tylko dla siebie
+        i nawet nie chc\u0119 z tob\u0105 rozmawia\u0107."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: bc26fbd04f0ba9e409acf0b7b9605b4b,
+      type: 3}
+  - character: {fileID: 11400000, guid: 96405c919c1886944adc4901ab13a968, type: 2}
+    texts:
+    - text: "T\xE1 vendo aquela barra de ouro? Pegue-a e suma daqui."
+      language: 0
+    - text: See that gold bar? Take it and get out of here.
+      language: 1
+    - text: "\u3042\u306E\u91D1\u306E\u5EF6\u3079\u68D2\u304C\u898B\u3048\u307E\u3059\u304B\uFF1F\u305D\u308C\u3092\u53D6\u3063\u3066\u3053\u3053\u304B\u3089\u51FA\u3066\u884C\u3063\u3066\u304F\u3060\u3055\u3044\u3002"
+      language: 2
+    - text: "\xBFVes esa barra de oro? T\xF3mala y vete de aqu\xED."
+      language: 3
+    - text: "Widzisz t\u0119 sztabk\u0119 z\u0142ota? We\u017A j\u0105 i wyno\u015B
+        si\u0119 st\u0105d."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: bc26fbd04f0ba9e409acf0b7b9605b4b,
+      type: 3}

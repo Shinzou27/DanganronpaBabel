@@ -1,0 +1,4 @@
+repository "Hades Project@felipecassianobarbosa@cloud"
+  path "/"
+    br "/main"
+    co "/main"

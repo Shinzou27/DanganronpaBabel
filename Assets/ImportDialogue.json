@@ -1,0 +1,124 @@
+{
+    "lines": [
+        {
+            "character": {
+                "instanceID": -118006
+            },
+            "texts": [
+                {
+                    "text": "Chegamos na melhor parte! Ao menos pra mim, fufufu...",
+                    "language": 0
+                },
+                {
+                    "text": "We have reached the climax! At least for me, fufufu...",
+                    "language": 1
+                },
+                {
+                    "text": "最高の部分に到達しました！少なくとも私にとっては、ふふふ...",
+                    "language": 2
+                },
+                {
+                    "text": "¡Hemos llegado a la mejor parte! Al menos para mí, fufufu...",
+                    "language": 3
+                },
+                {
+                    "text": "Dotarliśmy do najlepszej części! Przynajmniej dla mnie, fufufu...",
+                    "language": 4
+                }
+            ],
+            "expression": {
+                "instanceID": 0
+            }
+        },
+        {
+            "character": {
+                "instanceID": -118006
+            },
+            "texts": [
+                {
+                    "text": "Vamos ver se você consegue resolver esse mistério...",
+                    "language": 0
+                },
+                {
+                    "text": "Let's see if you can solve this mystery...",
+                    "language": 1
+                },
+                {
+                    "text": "この謎を解けるかどうか見てみましょう...",
+                    "language": 2
+                },
+                {
+                    "text": "Vamos a ver si puedes resolver este misterio...",
+                    "language": 3
+                },
+                {
+                    "text": "Zobaczymy, czy możesz rozwiązać tę zagadkę...",
+                    "language": 4
+                }
+            ],
+            "expression": {
+                "instanceID": 0
+            }
+        },
+        {
+            "character": {
+                "instanceID": -118006
+            },
+            "texts": [
+                {
+                    "text": "Se quiser voltar pro seu quarto e pegar seu Handbook, sinta-se livre.",
+                    "language": 0
+                },
+                {
+                    "text": "If you want to go back to your room and get your Handbook, feel free.",
+                    "language": 1
+                },
+                {
+                    "text": "部屋に戻ってハンドブックを取ってくるなら、自由にどうぞ。",
+                    "language": 2
+                },
+                {
+                    "text": "Si quieres volver a tu habitación y tomar tu Manual, siéntete libre.",
+                    "language": 3
+                },
+                {
+                    "text": "Jeśli chcesz wrócić do swojego pokoju i wziąć swój podręcznik, nie krępuj się.",
+                    "language": 4
+                }
+            ],
+            "expression": {
+                "instanceID": 0
+            }
+        },
+        {
+            "character": {
+                "instanceID": -118006
+            },
+            "texts": [
+                {
+                    "text": "Nem sempre nossa memória estará fresca, fufufu!",
+                    "language": 0
+                },
+                {
+                    "text": "Memory won't always be fresh, fufufu!",
+                    "language": 1
+                },
+                {
+                    "text": "記憶はいつも新鮮ではありません、ふふふ！",
+                    "language": 2
+                },
+                {
+                    "text": "¡Nuestra memoria no siempre estará fresca, fufufu!",
+                    "language": 3
+                },
+                {
+                    "text": "Nasza pamięć nie zawsze będzie świeża, fufufu!",
+                    "language": 4
+                }
+            ],
+            "expression": {
+                "instanceID": 0
+            }
+        }
+    ]
+}

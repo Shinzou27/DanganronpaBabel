@@ -1,0 +1,1324 @@
+{
+    "lines": [
+        {
+            "character": {
+                "instanceID": 31660
+            },
+            "texts": [
+                {
+                    "text": "Certo, vamos começar, então...",
+                    "language": 0
+                },
+                {
+                    "text": "Right, let's start then...",
+                    "language": 1
+                },
+                {
+                    "text": "そうですね、では始めましょう...",
+                    "language": 2
+                },
+                {
+                    "text": "De acuerdo, vamos a empezar entonces...",
+                    "language": 3
+                },
+                {
+                    "text": "Dobrze, zaczynajmy więc...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41526
+            },
+            "fullBodyExpression": {
+                "instanceID": 41528
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31660
+            },
+            "texts": [
+                {
+                    "text": "Quando chegamos aqui, todo mundo caiu no sono...",
+                    "language": 0
+                },
+                {
+                    "text": "When we arrived here, everyone fell asleep...",
+                    "language": 1
+                },
+                {
+                    "text": "ここに着いたとき、みんなが眠ってしまった…",
+                    "language": 2
+                },
+                {
+                    "text": "Cuando llegamos aquí, todos se durmieron...",
+                    "language": 3
+                },
+                {
+                    "text": "Kiedy tu przyjechaliśmy, wszyscy zasnęli...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41530
+            },
+            "fullBodyExpression": {
+                "instanceID": 33376
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31660
+            },
+            "texts": [
+                {
+                    "text": "E dormiu na frente da piscina.",
+                    "language": 0
+                },
+                {
+                    "text": "And slept in front of the pool.",
+                    "language": 1
+                },
+                {
+                    "text": "そして、プールの前で眠ってしまった。",
+                    "language": 2
+                },
+                {
+                    "text": "Y durmió frente a la piscina.",
+                    "language": 3
+                },
+                {
+                    "text": "I spał przed basenem.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41532
+            },
+            "fullBodyExpression": {
+                "instanceID": 41534
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "Foi aí que a Sonia ouviu algo estranho...!",
+                    "language": 0
+                },
+                {
+                    "text": "That's when Sonia heard something strange...!",
+                    "language": 1
+                },
+                {
+                    "text": "そこでソニアが何か変な音を聞いたのですよね…！",
+                    "language": 2
+                },
+                {
+                    "text": "¡Ahí fue cuando Sonia escuchó algo extraño...!",
+                    "language": 3
+                },
+                {
+                    "text": "To wtedy Sonia usłyszała coś dziwnego...!",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41536
+            },
+            "fullBodyExpression": {
+                "instanceID": 41538
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31440
+            },
+            "texts": [
+                {
+                    "text": "Na verdade, foi a Ibuki que ouviu alguém chamando o Fuyuhiko, não foi?",
+                    "language": 0
+                },
+                {
+                    "text": "Actually, it was Ibuki who heard someone calling Fuyuhiko, wasn't it?",
+                    "language": 1
+                },
+                {
+                    "text": "実は、イブキが冬彦を呼ぶ声を聞いたのは…",
+                    "language": 2
+                },
+                {
+                    "text": "En realidad, fue Ibuki quien escuchó a alguien llamar a Fuyuhiko, ¿verdad?",
+                    "language": 3
+                },
+                {
+                    "text": "Tak naprawdę to Ibuki usłyszała, jak ktoś wołał Fuyuhiko, prawda?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41540
+            },
+            "fullBodyExpression": {
+                "instanceID": 33414
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31568
+            },
+            "texts": [
+                {
+                    "text": "Positivo!",
+                    "language": 0
+                },
+                {
+                    "text": "Positive!",
+                    "language": 1
+                },
+                {
+                    "text": "その通りです！",
+                    "language": 2
+                },
+                {
+                    "text": "¡Positivo!",
+                    "language": 3
+                },
+                {
+                    "text": "Pozytywnie!",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41542
+            },
+            "fullBodyExpression": {
+                "instanceID": 41544
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "Entendi. Perdão, minha cabeça está nas nuvens ultimamente...",
+                    "language": 0
+                },
+                {
+                    "text": "I see. Sorry, my head has been in the clouds lately...",
+                    "language": 1
+                },
+                {
+                    "text": "すみません、最近、うっかりしています…",
+                    "language": 2
+                },
+                {
+                    "text": "Entiendo. Perdón, mi cabeza ha estado en las nubes últimamente...",
+                    "language": 3
+                },
+                {
+                    "text": "Rozumiem. Przepraszam, ostatnio mam głowę w chmurach...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41546
+            },
+            "fullBodyExpression": {
+                "instanceID": 33476
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32070
+            },
+            "texts": [
+                {
+                    "text": "A Ibuki percebeu que eu estava acordado...",
+                    "language": 0
+                },
+                {
+                    "text": "Ibuki noticed I was awake...",
+                    "language": 1
+                },
+                {
+                    "text": "イブキが私が目を覚ましたのに気づいて…",
+                    "language": 2
+                },
+                {
+                    "text": "Ibuki se dio cuenta de que estaba despierto...",
+                    "language": 3
+                },
+                {
+                    "text": "Ibuki zauważyła, że jestem obudzony...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41548
+            },
+            "fullBodyExpression": {
+                "instanceID": 33482
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32070
+            },
+            "texts": [
+                {
+                    "text": "E eu acabei vendo o Fuyuhiko sendo levado por alguém!",
+                    "language": 0
+                },
+                {
+                    "text": "And I ended up seeing Fuyuhiko being taken by someone!",
+                    "language": 1
+                },
+                {
+                    "text": "そして、誰かが冬彦を連れ去るのを見てしまった！",
+                    "language": 2
+                },
+                {
+                    "text": "¡Y terminé viendo a Fuyuhiko siendo llevado por alguien!",
+                    "language": 3
+                },
+                {
+                    "text": "I zobaczyłem, jak Fuyuhiko został zabrany przez kogoś!",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41548
+            },
+            "fullBodyExpression": {
+                "instanceID": 33482
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31540
+            },
+            "texts": [
+                {
+                    "text": "Esse alguém, por acaso, seria...",
+                    "language": 0
+                },
+                {
+                    "text": "Would that someone happen to be...",
+                    "language": 1
+                },
+                {
+                    "text": "その誰かというのは、たとえば…",
+                    "language": 2
+                },
+                {
+                    "text": "¿Esa persona, por casualidad, sería...",
+                    "language": 3
+                },
+                {
+                    "text": "Czy to ktoś przypadkiem był...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41550
+            },
+            "fullBodyExpression": {
+                "instanceID": 33438
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31540
+            },
+            "texts": [
+                {
+                    "text": "O Hajime!?",
+                    "language": 0
+                },
+                {
+                    "text": "Hajime!?",
+                    "language": 1
+                },
+                {
+                    "text": "一澄くん！？",
+                    "language": 2
+                },
+                {
+                    "text": "¡Hajime!?",
+                    "language": 3
+                },
+                {
+                    "text": "Hajime!?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41552
+            },
+            "fullBodyExpression": {
+                "instanceID": 41554
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31440
+            },
+            "texts": [
+                {
+                    "text": "Não! Claro que não! Nekomaru me disse que foi o Nagito.",
+                    "language": 0
+                },
+                {
+                    "text": "No! Of course not! Nekomaru told me it was Nagito.",
+                    "language": 1
+                },
+                {
+                    "text": "いいえ！ もちろん違います！ ネコマルによると、それはナギトだったと言っていました。",
+                    "language": 2
+                },
+                {
+                    "text": "¡No! ¡Por supuesto que no! Nekomaru me dijo que fue Nagito.",
+                    "language": 3
+                },
+                {
+                    "text": "Nie! Oczywiście, że nie! Nekomaru powiedział mi, że to był Nagito.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41556
+            },
+            "fullBodyExpression": {
+                "instanceID": 33414
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Hm...",
+                    "language": 0
+                },
+                {
+                    "text": "Hm...",
+                    "language": 1
+                },
+                {
+                    "text": "うーん…",
+                    "language": 2
+                },
+                {
+                    "text": "Hmm...",
+                    "language": 3
+                },
+                {
+                    "text": "Hm...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41558
+            },
+            "fullBodyExpression": {
+                "instanceID": 33450
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32070
+            },
+            "texts": [
+                {
+                    "text": "Sim, foi isso que aconteceu.",
+                    "language": 0
+                },
+                {
+                    "text": "Yes, that's what happened.",
+                    "language": 1
+                },
+                {
+                    "text": "はい、その通りでした。",
+                    "language": 2
+                },
+                {
+                    "text": "Sí, eso es lo que pasó.",
+                    "language": 3
+                },
+                {
+                    "text": "Tak, to się stało.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41548
+            },
+            "fullBodyExpression": {
+                "instanceID": 33482
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32198
+            },
+            "texts": [
+                {
+                    "text": "Então o Nagito sequestrou o Fuyuhiko?",
+                    "language": 0
+                },
+                {
+                    "text": "So Nagito kidnapped Fuyuhiko?",
+                    "language": 1
+                },
+                {
+                    "text": "では、ナギトが冬彦を誘拐したのでしょうか？",
+                    "language": 2
+                },
+                {
+                    "text": "¿Entonces Nagito secuestró a Fuyuhiko?",
+                    "language": 3
+                },
+                {
+                    "text": "Czyli Nagito porwał Fuyuhiko?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41560
+            },
+            "fullBodyExpression": {
+                "instanceID": 41562
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Será?",
+                    "language": 0
+                },
+                {
+                    "text": "Will he?",
+                    "language": 1
+                },
+                {
+                    "text": "そう思う？",
+                    "language": 2
+                },
+                {
+                    "text": "¿Lo hará?",
+                    "language": 3
+                },
+                {
+                    "text": "Czy tak?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41564
+            },
+            "fullBodyExpression": {
+                "instanceID": 41566
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Então, Hajime, o que você acha?",
+                    "language": 0
+                },
+                {
+                    "text": "So, Hajime, what do you think?",
+                    "language": 1
+                },
+                {
+                    "text": "どう思いますか、一澄くん？",
+                    "language": 2
+                },
+                {
+                    "text": "Entonces, Hajime, ¿qué piensas?",
+                    "language": 3
+                },
+                {
+                    "text": "Więc, Hajime, co o tym sądzisz?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41564
+            },
+            "fullBodyExpression": {
+                "instanceID": 41566
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Quando você veio no meu quarto, ontem, e olhou nos meus olhos...",
+                    "language": 0
+                },
+                {
+                    "text": "When you came to my room yesterday and looked into my eyes...",
+                    "language": 1
+                },
+                {
+                    "text": "昨日、私の部屋に来て、私の目を見たとき…",
+                    "language": 2
+                },
+                {
+                    "text": "Cuando viniste a mi habitación ayer y me miraste a los ojos...",
+                    "language": 3
+                },
+                {
+                    "text": "Kiedy wczoraj przyszedłeś do mojego pokoju i spojrzałeś mi w oczy...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41564
+            },
+            "fullBodyExpression": {
+                "instanceID": 41566
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Acha mesmo que eram os olhos de um criminoso?",
+                    "language": 0
+                },
+                {
+                    "text": "Do you really think those were the eyes of a criminal?",
+                    "language": 1
+                },
+                {
+                    "text": "本当に犯罪者の目だと思いましたか？",
+                    "language": 2
+                },
+                {
+                    "text": "¿Realmente crees que esos eran los ojos de un criminal?",
+                    "language": 3
+                },
+                {
+                    "text": "Czy naprawdę myślisz, że to były oczy przestępcy?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41564
+            },
+            "fullBodyExpression": {
+                "instanceID": 41566
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31458
+            },
+            "texts": [
+                {
+                    "text": "Nagito, você não tá bem, né?",
+                    "language": 0
+                },
+                {
+                    "text": "Nagito, you're not okay, are you?",
+                    "language": 1
+                },
+                {
+                    "text": "ナギト、大丈夫じゃないよね？",
+                    "language": 2
+                },
+                {
+                    "text": "Nagito, no estás bien, ¿verdad?",
+                    "language": 3
+                },
+                {
+                    "text": "Nagito, nic ci nie jest, prawda?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41568
+            },
+            "fullBodyExpression": {
+                "instanceID": 33420
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Tô ótimo, Gundham! Aliás, seu machucado na perna já melhorou?",
+                    "language": 0
+                },
+                {
+                    "text": "I'm great, Gundham! By the way, has your leg injury gotten better yet?",
+                    "language": 1
+                },
+                {
+                    "text": "すごいよ、ガンダム！ところで、足の怪我はもう良くなりましたか？",
+                    "language": 2
+                },
+                {
+                    "text": "¡Estoy bien, Gundham! Por cierto, ¿ya ha mejorado tu lesión en la pierna?",
+                    "language": 3
+                },
+                {
+                    "text": "Nic mi nie jest, Gundhamie! A tak przy okazji, czy stan twojej nogi już się poprawił?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 33450
+            },
+            "fullBodyExpression": {
+                "instanceID": 41558
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31440
+            },
+            "texts": [
+                {
+                    "text": "Nagito, o que isso deveria significar?",
+                    "language": 0
+                },
+                {
+                    "text": "Nagito, what is this supposed to mean?",
+                    "language": 1
+                },
+                {
+                    "text": "ナギト、これは何を意味するのでしょうか？",
+                    "language": 2
+                },
+                {
+                    "text": "Nagito, ¿qué se supone que significa esto?",
+                    "language": 3
+                },
+                {
+                    "text": "Nagito, co to miało znaczyć?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41570
+            },
+            "fullBodyExpression": {
+                "instanceID": 33414
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31440
+            },
+            "texts": [
+                {
+                    "text": "Lembro que ontem mesmo você me perguntou a mesma coisa.",
+                    "language": 0
+                },
+                {
+                    "text": "I remember you asked me the same thing yesterday.",
+                    "language": 1
+                },
+                {
+                    "text": "昨日、同じことを私に聞いたことを覚えています。",
+                    "language": 2
+                },
+                {
+                    "text": "Recuerdo que ayer me preguntaste lo mismo.",
+                    "language": 3
+                },
+                {
+                    "text": "Pamiętam, że wczoraj pytałeś mnie o to samo.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41570
+            },
+            "fullBodyExpression": {
+                "instanceID": 33414
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Hmm... Não sei. Acho que meu cérebro não tá funcionando bem.",
+                    "language": 0
+                },
+                {
+                    "text": "Hmm... I don't know. I think my brain isn't working well.",
+                    "language": 1
+                },
+                {
+                    "text": "うーん… 確かに、最近、頭があまり働いていません。",
+                    "language": 2
+                },
+                {
+                    "text": "Hmm... No sé. Creo que mi cerebro no está funcionando bien.",
+                    "language": 3
+                },
+                {
+                    "text": "Hmm... Nie wiem. Chyba mój mózg nie działa dobrze.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41572
+            },
+            "fullBodyExpression": {
+                "instanceID": 41574
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31578
+            },
+            "texts": [
+                {
+                    "text": "Desde que chegamos à essa ilha tenho tido flashes de memória meio estranhos.",
+                    "language": 0
+                },
+                {
+                    "text": "Since we arrived on this island, I've been having some strange memory flashes.",
+                    "language": 1
+                },
+                {
+                    "text": "この島に来てから、不思議な記憶の一部がフラッシュバックしています。",
+                    "language": 2
+                },
+                {
+                    "text": "Desde que llegamos a esta isla, he tenido algunos recuerdos extraños.",
+                    "language": 3
+                },
+                {
+                    "text": "Od kiedy przyjechaliśmy na tę wyspę, mam trochę dziwnych wspomnień.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41572
+            },
+            "fullBodyExpression": {
+                "instanceID": 41574
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31404
+            },
+            "texts": [
+                {
+                    "text": "Deixa ele. Vamos voltar ao que interessa...",
+                    "language": 0
+                },
+                {
+                    "text": "Leave him. Let's get back to what matters...",
+                    "language": 1
+                },
+                {
+                    "text": "それはいいよ。 我々が関心を持つことに戻りましょう…",
+                    "language": 2
+                },
+                {
+                    "text": "Déjalo. Volvamos a lo que importa...",
+                    "language": 3
+                },
+                {
+                    "text": "Zostaw go. Wróćmy do sedna...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41576
+            },
+            "fullBodyExpression": {
+                "instanceID": 33410
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "Ah! Ontem, eu e o Hajime encontramos uma mancha de sangue na frente do quarto do Nagito.",
+                    "language": 0
+                },
+                {
+                    "text": "Ah! Yesterday, Hajime and I found a blood stain in front of Nagito's room.",
+                    "language": 1
+                },
+                {
+                    "text": "あ！ 昨日、私たちはナギトの部屋の前で血の跡を見つけました。",
+                    "language": 2
+                },
+                {
+                    "text": "¡Ah! Ayer, Hajime y yo encontramos una mancha de sangre frente a la habitación de Nagito.",
+                    "language": 3
+                },
+                {
+                    "text": "Ah! Wczoraj ja i Hajime znaleźliśmy plamę krwi przed pokojem Nagito.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41536
+            },
+            "fullBodyExpression": {
+                "instanceID": 41538
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "Aquilo claramente foi um golpe de faca.",
+                    "language": 0
+                },
+                {
+                    "text": "That was clearly a knife wound.",
+                    "language": 1
+                },
+                {
+                    "text": "それは明らかにナイフでの一撃だった。",
+                    "language": 2
+                },
+                {
+                    "text": "Eso claramente fue una herida de cuchillo.",
+                    "language": 3
+                },
+                {
+                    "text": "To było jasne cięcie nożem.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41536
+            },
+            "fullBodyExpression": {
+                "instanceID": 41538
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31440
+            },
+            "texts": [
+                {
+                    "text": "Peko, acho que a Mikan tem algo a dizer sobre isso.",
+                    "language": 0
+                },
+                {
+                    "text": "Peko, I think Mikan has something to say about it.",
+                    "language": 1
+                },
+                {
+                    "text": "ペコ、ミカンはこれについて何か言いたいことがあると思う。",
+                    "language": 2
+                },
+                {
+                    "text": "Peko, creo que Mikan tiene algo que decir al respecto.",
+                    "language": 3
+                },
+                {
+                    "text": "Peko, myślę, że Mikan ma coś do powiedzenia na ten temat.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41540
+            },
+            "fullBodyExpression": {
+                "instanceID": 41540
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31858
+            },
+            "texts": [
+                {
+                    "text": "Sim... Nós investigamos depois essa mancha...",
+                    "language": 0
+                },
+                {
+                    "text": "Yes... We investigated that stain later...",
+                    "language": 1
+                },
+                {
+                    "text": "はい… その後、私たちはその血痕を調査しました…",
+                    "language": 2
+                },
+                {
+                    "text": "Sí... Investigamos esa mancha más tarde...",
+                    "language": 3
+                },
+                {
+                    "text": "Tak... Później zbadaliśmy tę plamę...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41578
+            },
+            "fullBodyExpression": {
+                "instanceID": 41580
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "!?",
+                    "language": 0
+                },
+                {
+                    "text": "!",
+                    "language": 1
+                },
+                {
+                    "text": "！？",
+                    "language": 2
+                },
+                {
+                    "text": "¡¿?!",
+                    "language": 3
+                },
+                {
+                    "text": "?!",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41582
+            },
+            "fullBodyExpression": {
+                "instanceID": 41584
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31858
+            },
+            "texts": [
+                {
+                    "text": "Ao que parece... o sangue veio... de uma pancada forte.",
+                    "language": 0
+                },
+                {
+                    "text": "It seems... the blood came... from a strong blow.",
+                    "language": 1
+                },
+                {
+                    "text": "どうやら… その血は、強い打撲で出たようです。",
+                    "language": 2
+                },
+                {
+                    "text": "Parece que... la sangre vino... de un golpe fuerte.",
+                    "language": 3
+                },
+                {
+                    "text": "Wygląda na to, że... krew przyszła... od mocnego uderzenia.",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41586
+            },
+            "fullBodyExpression": {
+                "instanceID": 41588
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "...",
+                    "language": 0
+                },
+                {
+                    "text": "...",
+                    "language": 1
+                },
+                {
+                    "text": "…",
+                    "language": 2
+                },
+                {
+                    "text": "...",
+                    "language": 3
+                },
+                {
+                    "text": "...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41584
+            },
+            "fullBodyExpression": {
+                "instanceID": 41582
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31858
+            },
+            "texts": [
+                {
+                    "text": "Não queria dizer nada... mas um objeto pesado como uma espada... poderia...",
+                    "language": 0
+                },
+                {
+                    "text": "I didn't want to say anything... but a heavy object like a sword... could...",
+                    "language": 1
+                },
+                {
+                    "text": "何も言いたくないけど、剣のような重い物が…",
+                    "language": 2
+                },
+                {
+                    "text": "No quería decir nada... pero un objeto pesado como una espada... podría...",
+                    "language": 3
+                },
+                {
+                    "text": "Nie chciałem nic mówić... ale ciężki przedmiot, jak miecz... mógłby...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41590
+            },
+            "fullBodyExpression": {
+                "instanceID": 41592
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "Ei, Mikan, o que você está querendo dizer?",
+                    "language": 0
+                },
+                {
+                    "text": "Hey, Mikan, what are you trying to say?",
+                    "language": 1
+                },
+                {
+                    "text": "ミカン、何が言いたいの？",
+                    "language": 2
+                },
+                {
+                    "text": "Oye, Mikan, ¿qué estás tratando de decir?",
+                    "language": 3
+                },
+                {
+                    "text": "Hej, Mikan, o co chodzi?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41594
+            },
+            "fullBodyExpression": {
+                "instanceID": 41596
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31462
+            },
+            "texts": [
+                {
+                    "text": "Peko, por favor, seja sincera conosco. Você também estava acordada ontem à noite?",
+                    "language": 0
+                },
+                {
+                    "text": "Peko, please be honest with us. Were you also awake last night?",
+                    "language": 1
+                },
+                {
+                    "text": "ペコ、正直に話してください。 あなたも昨夜、起きていましたか？",
+                    "language": 2
+                },
+                {
+                    "text": "Peko, por favor, sé honesta con nosotros. ¿También estabas despierta anoche?",
+                    "language": 3
+                },
+                {
+                    "text": "Peko, proszę, bądź szczera z nami. Czy też byłaś wczoraj wieczorem obudzona?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41598
+            },
+            "fullBodyExpression": {
+                "instanceID": 41600
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32066
+            },
+            "texts": [
+                {
+                    "text": "...",
+                    "language": 0
+                },
+                {
+                    "text": "...",
+                    "language": 1
+                },
+                {
+                    "text": "…",
+                    "language": 2
+                },
+                {
+                    "text": "...",
+                    "language": 3
+                },
+                {
+                    "text": "...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41584
+            },
+            "fullBodyExpression": {
+                "instanceID": 41582
+            }
+        },
+        {
+            "character": {
+                "instanceID": 32152
+            },
+            "texts": [
+                {
+                    "text": "Bom, acho que já entendemos tudo que aconteceu, né?",
+                    "language": 0
+                },
+                {
+                    "text": "Well, I guess we understand everything that happened, right?",
+                    "language": 1
+                },
+                {
+                    "text": "まあ、私たちが何が起こったかを理解したと思いますね？",
+                    "language": 2
+                },
+                {
+                    "text": "Bueno, supongo que entendemos todo lo que pasó, ¿verdad?",
+                    "language": 3
+                },
+                {
+                    "text": "No cóż, myślę, że rozumiemy wszystko, co się stało, prawda?",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41602
+            },
+            "fullBodyExpression": {
+                "instanceID": 41604
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31462
+            },
+            "texts": [
+                {
+                    "text": "Hajime... Como foi você quem participou ativamente dessa investigação...",
+                    "language": 0
+                },
+                {
+                    "text": "Hajime... Since you were actively involved in this investigation...",
+                    "language": 1
+                },
+                {
+                    "text": "一澄くん… あなたがこの調査で積極的に参加したので…",
+                    "language": 2
+                },
+                {
+                    "text": "Hajime... Como tú participaste activamente en esta investigación...",
+                    "language": 3
+                },
+                {
+                    "text": "Hajime... Skoro byłeś aktywnie zaangażowany w to śledztwo...",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 33426
+            },
+            "fullBodyExpression": {
+                "instanceID": 41606
+            }
+        },
+        {
+            "character": {
+                "instanceID": 31462
+            },
+            "texts": [
+                {
+                    "text": "Diga-nos quem é o verdadeiro culpado pelo sumiço do Fuyuhiko!",
+                    "language": 0
+                },
+                {
+                    "text": "Tell us who the real culprit is for Fuyuhiko's disappearance!",
+                    "language": 1
+                },
+                {
+                    "text": "冬彦の失踪の真犯人を教えてください！",
+                    "language": 2
+                },
+                {
+                    "text": "¡Dinos quién es el verdadero culpable de la desaparición de Fuyuhiko!",
+                    "language": 3
+                },
+                {
+                    "text": "Powiedz nam, kto jest prawdziwym winowajcą zniknięcia Fuyuhiko!",
+                    "language": 4
+                }
+            ],
+            "halfBodyExpression": {
+                "instanceID": 41608
+            },
+            "fullBodyExpression": {
+                "instanceID": 41610
+            }
+        }
+    ]
+}

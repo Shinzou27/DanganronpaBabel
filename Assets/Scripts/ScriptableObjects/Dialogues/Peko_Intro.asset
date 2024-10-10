@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Peko_Intro
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: O que fizeram com meu Mestre...
+      language: 0
+    - text: What have they done to my Master...
+      language: 1
+    - text: "\u79C1\u306E\u5E2B\u5320\u306B\u4F55\u3092\u3057\u305F\u3093\u3060...\u3002"
+      language: 2
+    - text: "\xBFQu\xE9 le han hecho a mi Maestro...?"
+      language: 3
+    - text: Co zrobili mojemu Mistrzowi...?
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 5f705663ddfc231458c3ae80c4254e38,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: Quem seria capaz de uma coisa dessas!?
+      language: 0
+    - text: Who would be capable of such a thing!?
+      language: 1
+    - text: "\u3053\u3093\u306A\u3053\u3068\u3092\u3059\u308B\u4EBA\u304C\u3044\u308B\u306E\u304B\uFF01\uFF1F"
+      language: 2
+    - text: "\xBFQui\xE9n ser\xEDa capaz de algo as\xED!?"
+      language: 3
+    - text: "Kto by\u0142by zdolny do czego\u015B takiego!?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 5f705663ddfc231458c3ae80c4254e38,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: Juro que vou me vingar!
+      language: 0
+    - text: I swear I'll take revenge!
+      language: 1
+    - text: "\u79C1\u306F\u5FC5\u305A\u5831\u3044\u308B\uFF01"
+      language: 2
+    - text: "\xA1Juro que me vengar\xE9!"
+      language: 3
+    - text: "Przysi\u0119gam, \u017Ce si\u0119 zem\u015Bc\u0119!"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6714833f75bf8f0419044cbe944a6619,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: "Mais cedo, vi uma mancha de sangue na parede de um dos dormit\xF3rios..."
+      language: 0
+    - text: Earlier, I saw a bloodstain on the wall in one of the dormitories...
+      language: 1
+    - text: "\u3055\u3063\u304D\u3001\u5BEE\u306E\u58C1\u306B\u8840\u75D5\u3092\u898B\u305F\u3093\u3060\u3051\u3069\u2026\u3002"
+      language: 2
+    - text: Hace un rato, vi una mancha de sangre en la pared de uno de los dormitorios...
+      language: 3
+    - text: "Wcze\u015Bniej widzia\u0142em plam\u0119 krwi na \u015Bcianie w jednym
+        z pokoi..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: f6eed13e735ce0547ae4c6f349ad33f1,
+      type: 3}
+  - character: {fileID: 11400000, guid: f723f6b5d6442504b83810f9edd35607, type: 2}
+    texts:
+    - text: "Pedi para a Mikan fazer uma an\xE1lise sangu\xEDnea mais cedo. Veja
+        se ela j\xE1 terminou!"
+      language: 0
+    - text: I asked Mikan to perform a blood analysis earlier. See if she's done
+        yet!
+      language: 1
+    - text: "\u3055\u3063\u304D\u3001\u30DF\u30AB\u30F3\u306B\u8840\u6DB2\u691C\u67FB\u3092\u983C\u3093\u3060\u3093\u3060\u3002\u3082\u3046\u7D42\u308F\u3063\u305F\u304B\u78BA\u8A8D\u3057\u3066\u304F\u308C\u3002"
+      language: 2
+    - text: "Le ped\xED a Mikan que hiciera un an\xE1lisis de sangre antes. A ver
+        si ya termin\xF3."
+      language: 3
+    - text: "Poprosi\u0142em Mikana o wykonanie analizy krwi wcze\u015Bniej. Zobacz,
+        czy ju\u017C sko\u0144czy\u0142a."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: f6eed13e735ce0547ae4c6f349ad33f1,
+      type: 3}

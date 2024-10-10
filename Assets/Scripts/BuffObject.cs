@@ -1,0 +1,19 @@
+public enum BuffObject {
+    Basketball,
+    Camera,
+    DragonStatue,
+    Dumbbell3KG,
+    Dumbbell5KG,
+    Gameboy,
+    GoldBar,
+    Guitar,
+    Hamster,
+    Handbook,
+    HandFan,
+    Katana,
+    Pan,
+    Screwdiver,
+    SparklingJustice,
+    Syringe,
+    NONE
+}

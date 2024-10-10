@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ce41678c9b6de47bc5041a24d248a2, type: 3}
+  m_Name: NagitosBehavior
+  m_EditorClassIdentifier: 
+  title: Comportamento estranho do Nagito
+  texts:
+  - text: "Quando voc\xEA conversou com Nagito, ele agiu de maneira estranha, e mencionou
+      uma dor que voc\xEA nem lembrava que teve."
+    language: 0
+  - text: When you talked to Nagito, he acted strangely and mentioned a pain you
+      didn't even remember having.
+    language: 1
+  - text: "\u30CA\u30AE\u30C8\u3068\u8A71\u3057\u305F\u3068\u304D\u3001\u5F7C\u306F\u5947\u5999\u306B\u632F\u308B\u821E\u3044\u3001\u3042\u306A\u305F\u304C\u899A\u3048\u3066\u3044\u306A\u304B\u3063\u305F\u75DB\u307F\u306B\u3064\u3044\u3066\u8A00\u53CA\u3057\u307E\u3057\u305F\u3002"
+    language: 2
+  found: 0
+  triggerDialogue: {fileID: 11400000, guid: e473afa836148a24496bde10c6574011, type: 2}

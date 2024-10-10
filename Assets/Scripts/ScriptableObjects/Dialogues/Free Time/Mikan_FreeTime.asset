@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Mikan_FreeTime
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "...Ol\xE1, Hajime! ...N\xE3o temos tanto...tempo a s\xF3s...ent\xE3o
+        queria te presentear com algo que...significa bastante pra mim..."
+      language: 0
+    - text: ...Hello, Hajime! ...We don't have much...time alone...so I wanted to
+        give you something that...means a lot to me...
+      language: 1
+    - text: "...\u3053\u3093\u306B\u3061\u306F\u3001\u306F\u3058\u3081\uFF01 ...\u79C1\u305F\u3061\u306F\u3042\u307E\u308A...\u4E00\u7DD2\u306B\u3044\u308B\u6642\u9593\u304C\u306A\u3044\u306E\u3067...\u79C1\u306B\u3068\u3063\u3066...\u5927\u5207\u306A\u3082\u306E\u3092\u8D08\u308A\u305F\u3044\u3068\u601D\u3044\u307E\u3057\u305F..."
+      language: 2
+    - text: "...\xA1Hola, Hajime! ...No tenemos mucho...tiempo a solas...as\xED que
+        quer\xEDa regalarte algo que...significa mucho para m\xED..."
+      language: 3
+    - text: "...Cze\u015B\u0107, Hajime! ...Nie mamy zbyt...wiele czasu tylko dla
+        siebie...wi\u0119c chcia\u0142em ci podarowa\u0107 co\u015B, co...wiele dla
+        mnie znaczy..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: b177c3804999cb64bb1da36a2134f36b,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: "Fiz essa seringa com massa de modelar... Acho que ficou bem fiel...n\xE3o
+        ficou...?"
+      language: 0
+    - text: I made this syringe out of modeling clay... I think it looks quite accurate...doesn't
+        it...?
+      language: 1
+    - text: "\u3053\u306E\u6CE8\u5C04\u5668\u3092\u7C98\u571F\u3067\u4F5C\u308A\u307E\u3057\u305F...\u304B\u306A\u308A\u5FE0\u5B9F\u306B\u3067\u304D\u305F\u3068\u601D\u3046\u3093\u3067\u3059\u3051\u3069...\u305D\u3046\u601D\u3044\u307E\u305B\u3093\u304B...\uFF1F"
+      language: 2
+    - text: "Hice esta jeringa con plastilina... Creo que qued\xF3 bastante fiel...\xBFno
+        crees...?"
+      language: 3
+    - text: "Zrobi\u0142em t\u0119 strzykawk\u0119 z modeliny... My\u015Bl\u0119,
+        \u017Ce wygl\u0105da ca\u0142kiem dok\u0142adnie...prawda...?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: b177c3804999cb64bb1da36a2134f36b,
+      type: 3}
+  - character: {fileID: 11400000, guid: b9aeb04f95fed9147a199a310df48294, type: 2}
+    texts:
+    - text: ...Aceite-a como um presente pela nossa amizade!
+      language: 0
+    - text: ...Accept it as a gift for our friendship!
+      language: 1
+    - text: "...\u79C1\u305F\u3061\u306E\u53CB\u60C5\u306E\u8A3C\u3068\u3057\u3066\u53D7\u3051\u53D6\u3063\u3066\u304F\u3060\u3055\u3044\uFF01"
+      language: 2
+    - text: "...\xA1Ac\xE9ptalo como un regalo por nuestra amistad!"
+      language: 3
+    - text: "...Przyjmij to jako prezent na nasz\u0105 przyja\u017A\u0144!"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: b177c3804999cb64bb1da36a2134f36b,
+      type: 3}

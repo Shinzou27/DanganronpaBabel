@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Ibuki_Intro
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: Bom dia, boa tarde e boa noite!
+      language: 0
+    - text: Good mooooooorning!
+      language: 1
+    - text: "\u304A\u306F\u3088\u3046\u3054\u3056\u3044\u307E\u3059\u3001\u3053\u3093\u306B\u3061\u306F\u3001\u3053\u3093\u3070\u3093\u306F\uFF01"
+      language: 2
+    - text: "\xA1Buenos d\xEDas, buenas tardes y buenas noches!"
+      language: 3
+    - text: "Dzie\u0144 dobry, dzie\u0144 dobry i dobranoc!"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 3b35bdcb50650b745b5744607007e350,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: "Cara, que situa\xE7\xE3ozinha, ein?"
+      language: 0
+    - text: Man, what a helluva situation, huh?
+      language: 1
+    - text: "\u304A\u3044\u3001\u306A\u3093\u3066\u72B6\u6CC1\u3060\u3088\u306D\uFF1F"
+      language: 2
+    - text: "\xA1Vaya situaci\xF3n, eh?"
+      language: 3
+    - text: O cholera, co za sytuacja, co?
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 7c44e9b84d9137f40a61405924b37448,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: "Quem imaginaria que nossa col\xF4nia de f\xE9rias acabaria num desastre
+        desses?"
+      language: 0
+    - text: Who would have imagined that our summer camp would end in such a disaster?
+      language: 1
+    - text: "\u8AB0\u304C\u79C1\u305F\u3061\u306E\u4F11\u6687\u30B3\u30ED\u30CB\u30FC\u304C\u3053\u3093\u306A\u707D\u5BB3\u3067\u7D42\u308F\u308B\u3068\u60F3\u50CF\u3057\u305F\u3067\u3057\u3087\u3046\u304B\uFF1F"
+      language: 2
+    - text: "\xBFQui\xE9n hubiera imaginado que nuestro campamento de verano terminar\xEDa
+        en un desastre as\xED?"
+      language: 3
+    - text: "Kto by pomy\u015Bla\u0142, \u017Ce nasz letni ob\xF3z sko\u0144czy si\u0119
+        tak\u0105 katastrof\u0105?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 7c44e9b84d9137f40a61405924b37448,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: Olha, sei que depois que todo mundo apagou, eu ainda tava meio acordada,
+        sabe?
+      language: 0
+    - text: Look, I know that after everyone fell asleep, I was still kind of awake,
+        you know?
+      language: 1
+    - text: "\u898B\u3066\u3001\u307F\u3093\u306A\u304C\u5BDD\u305F\u5F8C\u3082\u3001\u79C1\u306F\u307E\u3060\u5C11\u3057\u76EE\u304C\u899A\u3081\u3066\u3044\u305F\u3093\u3060\u3088\u3001\u308F\u304B\u308B\uFF1F"
+      language: 2
+    - text: "Mira, s\xE9 que despu\xE9s de que todos se durmieron, yo todav\xEDa
+        estaba medio despierto, \xBFsabes?"
+      language: 3
+    - text: "Sp\xF3jrz, wiem, \u017Ce po tym, jak wszyscy zasn\u0119li, by\u0142em
+        jeszcze troch\u0119 obudzony, wiesz?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 74f8e51e424e3ef4bb06dce498d1930d,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: "A\xED ouvi algu\xE9m dizendo \"...hiko!\", \"...yuhiko!\" "
+      language: 0
+    - text: Then I heard someone saying "...hiko!", "...yuhiko!"
+      language: 1
+    - text: "\u3059\u308B\u3068\u8AB0\u304B\u304C\u300C\u2026\u30D2\u30B3\uFF01\u300D\u300C\u2026\u30E6\u30D2\u30B3\uFF01\u300D\u3068\u8A00\u3063\u3066\u3044\u308B\u306E\u304C\u805E\u3053\u3048\u305F\u3002"
+      language: 2
+    - text: "Entonces escuch\xE9 a alguien decir \"...hiko!\", \"...yuhiko!\""
+      language: 3
+    - text: "Wtedy us\u0142ysza\u0142em, jak kto\u015B m\xF3wi\u0142 \"...hiko!\",
+        \"...yuhiko!\""
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 74f8e51e424e3ef4bb06dce498d1930d,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: "Da\xED apaguei de novo..."
+      language: 0
+    - text: Then I slept again...
+      language: 1
+    - text: "\u305D\u308C\u304B\u3089\u307E\u305F\u5BDD\u307E\u3057\u305F\u2026"
+      language: 2
+    - text: "Entonces volv\xED a dormir..."
+      language: 3
+    - text: "Wtedy zn\xF3w zasn\u0105\u0142em..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6a1111b074a7d494499833bceaa99315,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: Era uma voz grossa, me lembro disso. Talvez tenha sido do Gundham ou
+        do Nekomaru.
+      language: 0
+    - text: It was a deep voice, I remember that. Maybe it was Gundham's or Nekomaru's.
+      language: 1
+    - text: "\u4F4E\u3044\u58F0\u3060\u3063\u305F\u306E\u3092\u899A\u3048\u3066\u3044\u308B\u3002\u30AC\u30F3\u30C0\u30E0\u304B\u30CD\u30B3\u30DE\u30EB\u306E\u58F0\u3060\u3063\u305F\u304B\u3082\u3057\u308C\u306A\u3044\u3002"
+      language: 2
+    - text: "Era una voz profunda, recuerdo eso. Quiz\xE1s era de Gundham o Nekomaru."
+      language: 3
+    - text: "By\u0142 to g\u0142\u0119boki g\u0142os, pami\u0119tam to. Mo\u017Ce
+        to by\u0142 g\u0142os Gundhama albo Nekomaru."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 7c44e9b84d9137f40a61405924b37448,
+      type: 3}
+  - character: {fileID: 11400000, guid: bc21580014c69d9419580ca20a0b4f74, type: 2}
+    texts:
+    - text: "D\xE1 um pulo l\xE1!"
+      language: 0
+    - text: Jump over there!
+      language: 1
+    - text: "\u3061\u3087\u3063\u3068\u884C\u3063\u3066\u307F\u3066\uFF01"
+      language: 2
+    - text: "\xA1Salta all\xE1!"
+      language: 3
+    - text: Skocz tam!
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 74f8e51e424e3ef4bb06dce498d1930d,
+      type: 3}

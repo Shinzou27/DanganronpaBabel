@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Nagito_Intro
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Ah, e a\xED, Hajime. Como voc\xEA est\xE1?"
+      language: 0
+    - text: Oh, hey, Hajime. How are you doing?
+      language: 1
+    - text: "\u3042\u3042\u3001\u3084\u3042\u3001\u306F\u3058\u3081\u3002\u5143\u6C17\u3067\u3059\u304B\uFF1F"
+      language: 2
+    - text: "\xA1Oh, hola, Hajime! \xBFC\xF3mo est\xE1s?"
+      language: 3
+    - text: "Ej, cze\u015B\u0107, Hajime. Jak si\u0119 masz?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 3e8016faccae0f34cb2ef756dff660b8,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Sua perna ainda est\xE1 doendo?"
+      language: 0
+    - text: Is your leg still hurting?
+      language: 1
+    - text: "\u3042\u306A\u305F\u306E\u8DB3\u306F\u307E\u3060\u75DB\u3044\u3067\u3059\u304B\uFF1F"
+      language: 2
+    - text: "\xBFTodav\xEDa te duele la pierna?"
+      language: 3
+    - text: "Czy tw\xF3j nog\u0119 jeszcze boli?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: d23b02ed3da0d844eb195c4997875802,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "J\xE1 est\xE1 totalmente curado, ent\xE3o? Entendi."
+      language: 0
+    - text: Already fully healed, then? I see.
+      language: 1
+    - text: "\u3082\u3046\u5B8C\u5168\u306B\u6CBB\u3063\u305F\u306E\u3067\u3059\u304B\uFF1F\u308F\u304B\u308A\u307E\u3057\u305F\u3002"
+      language: 2
+    - text: "\xBFYa est\xE1 completamente curado, entonces? Entiendo."
+      language: 3
+    - text: "Czyli ju\u017C ca\u0142kowicie si\u0119 wyleczy\u0142e\u015B? Rozumiem."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: d23b02ed3da0d844eb195c4997875802,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "Bom, isso que o Nekomaru falou... Est\xE1 errado."
+      language: 0
+    - text: Well, this Nekomaru's account is... Just wrong.
+      language: 1
+    - text: "\u307E\u3042\u3001\u3053\u306E\u732B\u4E38\u306E\u8AAC\u660E\u306F\u2026\u9593\u9055\u3063\u3066\u3044\u308B\u3002"
+      language: 2
+    - text: "Bueno, lo que dijo Nekomaru... Est\xE1 equivocado."
+      language: 3
+    - text: "No c\xF3\u017C, to co powiedzia\u0142 Nekomaru... Jest po prostu b\u0142\u0119dne."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 667bca5195d99ad4bb48461b5213394a,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: Fiquei a noite inteira apagado, e acordei morrendo de frio com aquele
+        vento forte.
+      language: 0
+    - text: I was out like a light the whole night, and I woke up freezing with that
+        strong wind.
+      language: 1
+    - text: "\u4E00\u6669\u4E2D\u3050\u3063\u3059\u308A\u7720\u3063\u3066\u3044\u3066\u3001\u3042\u306E\u5F37\u3044\u98A8\u3067\u5BD2\u3055\u3067\u6B7B\u306B\u305D\u3046\u306B\u306A\u3063\u3066\u76EE\u304C\u899A\u3081\u305F\u3002"
+      language: 2
+    - text: "Estuve dormido toda la noche y me despert\xE9 congelado por ese viento
+        fuerte."
+      language: 3
+    - text: "By\u0142em jak kamie\u0144 przez ca\u0142\u0105 noc, a potem obudzi\u0142em
+        si\u0119 przemarzni\u0119ty tym silnym wiatrem."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 667bca5195d99ad4bb48461b5213394a,
+      type: 3}
+  - character: {fileID: 11400000, guid: 9889cb157b9c8b748a01d8a8b2d4bc24, type: 2}
+    texts:
+    - text: "S\xE9rio, esse primeiro dia j\xE1 me deixou desanimado com as f\xE9rias..."
+      language: 0
+    - text: Seriously, this first day has already left me discouraged about the vacation...
+      language: 1
+    - text: "\u672C\u5F53\u306B\u3001\u3053\u306E\u521D\u65E5\u3060\u3051\u3067\u4F11\u6687\u306B\u304C\u3063\u304B\u308A\u3057\u305F..."
+      language: 2
+    - text: "En serio, este primer d\xEDa ya me ha desanimado sobre las vacaciones..."
+      language: 3
+    - text: "Serio, ten pierwszy dzie\u0144 ju\u017C mnie zniech\u0119ci\u0142 do
+        wakacji..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: d23b02ed3da0d844eb195c4997875802,
+      type: 3}

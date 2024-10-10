@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Nekomaru_Intro
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: "Ah, ol\xE1, Hajime. O que foi?"
+      language: 0
+    - text: Ah, hello, Hajime. What is it?
+      language: 1
+    - text: "\u3042\u3042\u3001\u3053\u3093\u306B\u3061\u306F\u3001\u30CF\u30B8\u30E1\u3002\u3069\u3046\u3057\u305F\u306E\uFF1F"
+      language: 2
+    - text: "\xA1Ah, hola, Hajime! \xBFQu\xE9 pasa?"
+      language: 3
+    - text: "Ah, cze\u015B\u0107, Hajime. Co si\u0119 dzieje?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: "Ah, a Ibuki percebeu, \xE9? Entendi."
+      language: 0
+    - text: Oh, so Ibuki noticed that, huh?
+      language: 1
+    - text: "\u3042\u3042\u3001\u4F0A\u5439\u306F\u6C17\u3065\u3044\u305F\u306E\u304B\uFF1F\u308F\u304B\u3063\u305F\u3002"
+      language: 2
+    - text: "\xA1Oh, as\xED que Ibuki se dio cuenta de eso, eh?"
+      language: 3
+    - text: "Och, wi\u0119c Ibuki zauwa\u017Cy\u0142a, co?"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: "Bem...\xE9. Eu n\xE3o fui totalmente afetado pelo son\xEDfero."
+      language: 0
+    - text: Well...yeah. I wasn't completely affected by the sleeping pill.
+      language: 1
+    - text: "\u305D\u3046\u3067\u3059\u306D\u3002\u7761\u7720\u85AC\u306E\u5F71\u97FF\u306F\u5B8C\u5168\u306B\u306F\u53D7\u3051\u3066\u3044\u307E\u305B\u3093\u3067\u3057\u305F\u3002"
+      language: 2
+    - text: "Bueno... s\xED. No fui totalmente afectado por la pastilla para dormir."
+      language: 3
+    - text: "No c\xF3\u017C... tak. Nie by\u0142em ca\u0142kowicie dotkni\u0119ty
+        tabletk\u0105 nasenn\u0105."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: Acordei alguns segundos depois, acho, e vi o Fuyuhiko indo ao hotel com
+        o Nagito.
+      language: 0
+    - text: I think I woke up a few seconds later and saw Fuyuhiko going into the
+        hotel with Nagito.
+      language: 1
+    - text: "\u6570\u79D2\u5F8C\u306B\u76EE\u304C\u899A\u3081\u305F\u3068\u601D\u3046\u3001\u305D\u3057\u3066\u51AC\u5F66\u304C\u51EA\u6597\u3068\u4E00\u7DD2\u306B\u30DB\u30C6\u30EB\u306B\u884C\u304F\u306E\u3092\u898B\u305F\u3002"
+      language: 2
+    - text: "Me despert\xE9 unos segundos despu\xE9s, creo, y vi a Fuyuhiko entrar
+        al hotel con Nagito."
+      language: 3
+    - text: "Obudzi\u0142em si\u0119 kilka sekund p\xF3\u017Aniej, my\u015Bl\u0119,
+        i zobaczy\u0142em, jak Fuyuhiko wchodzi\u0142 do hotelu z Nagito."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: "Ambos pareciam estar com pressa, ent\xE3o tentei perguntar o que estava
+        havendo."
+      language: 0
+    - text: Both seemed to be in a hurry, so I tried to ask what was going on.
+      language: 1
+    - text: "\u4E8C\u4EBA\u3068\u3082\u6025\u3044\u3067\u3044\u308B\u3088\u3046\u3060\u3063\u305F\u306E\u3067\u3001\u4F55\u304C\u3042\u3063\u305F\u306E\u304B\u805E\u3044\u3066\u307F\u307E\u3057\u305F\u3002"
+      language: 2
+    - text: "Ambos parec\xEDan estar apurados, as\xED que intent\xE9 preguntar qu\xE9
+        estaba pasando."
+      language: 3
+    - text: "Obaj wydawali si\u0119 by\u0107 w po\u015Bpiechu, wi\u0119c pr\xF3bowa\u0142em
+        zapyta\u0107, co si\u0119 dzieje."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}
+  - character: {fileID: 11400000, guid: c8a9a1f88c320634c8acd19639b1fd56, type: 2}
+    texts:
+    - text: "Mas assim que comecei a falar, voltei a me sentir fraco, e ca\xED de
+        novo no sono."
+      language: 0
+    - text: But as soon as I started to speak, I began to feel weak again, and I
+        fell back asleep.
+      language: 1
+    - text: "\u3057\u304B\u3057\u3001\u8A71\u3057\u59CB\u3081\u308B\u3068\u3059\u3050\u306B\u307E\u305F\u4F53\u304C\u5F31\u304F\u306A\u308A\u3001\u307E\u305F\u7720\u3063\u3066\u3057\u307E\u3044\u307E\u3057\u305F\u3002"
+      language: 2
+    - text: "Pero en cuanto empec\xE9 a hablar, volv\xED a sentirme d\xE9bil y volv\xED
+        a dormirme."
+      language: 3
+    - text: "Ale gdy tylko zacz\u0105\u0142em m\xF3wi\u0107, zacz\u0105\u0142em zn\xF3w
+        czu\u0107 si\u0119 s\u0142abo i zasn\u0105\u0142em ponownie."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 6ae134a257357314aa2a868911bbc8d7,
+      type: 3}

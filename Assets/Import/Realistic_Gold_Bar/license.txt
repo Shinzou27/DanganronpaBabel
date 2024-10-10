@@ -1,0 +1,11 @@
+Model Information:
+* title:	Realistic Gold Bar
+* source:	https://sketchfab.com/3d-models/realistic-gold-bar-95004bb7649e44fd97ccb75802c54388
+* author:	TheBoss009SS (https://sketchfab.com/TheBoss009SS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Realistic Gold Bar" (https://sketchfab.com/3d-models/realistic-gold-bar-95004bb7649e44fd97ccb75802c54388) by TheBoss009SS (https://sketchfab.com/TheBoss009SS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d9f62b0a214a314db8592e780ce80d9, type: 3}
+  m_Name: Monokuma_Warning
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 4da7aa0cc903560438ebb8a48efb4f9c, type: 2}
+    texts:
+    - text: Chegamos na melhor parte! Ao menos pra mim, fufufu...
+      language: 0
+    - text: We have reached the climax! At least for me, fufufu...
+      language: 1
+    - text: "\u6700\u9AD8\u306E\u90E8\u5206\u306B\u5230\u9054\u3057\u307E\u3057\u305F\uFF01\u5C11\u306A\u304F\u3068\u3082\u79C1\u306B\u3068\u3063\u3066\u306F\u3001\u3075\u3075\u3075..."
+      language: 2
+    - text: "\xA1Hemos llegado a la mejor parte! Al menos para m\xED, fufufu..."
+      language: 3
+    - text: "Dotarli\u015Bmy do najlepszej cz\u0119\u015Bci! Przynajmniej dla mnie,
+        fufufu..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 0}
+  - character: {fileID: 11400000, guid: 4da7aa0cc903560438ebb8a48efb4f9c, type: 2}
+    texts:
+    - text: "Vamos ver se voc\xEA consegue resolver esse mist\xE9rio..."
+      language: 0
+    - text: Let's see if you can solve this mystery...
+      language: 1
+    - text: "\u3053\u306E\u8B0E\u3092\u89E3\u3051\u308B\u304B\u3069\u3046\u304B\u898B\u3066\u307F\u307E\u3057\u3087\u3046..."
+      language: 2
+    - text: Vamos a ver si puedes resolver este misterio...
+      language: 3
+    - text: "Zobaczymy, czy mo\u017Cesz rozwi\u0105za\u0107 t\u0119 zagadk\u0119..."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 851f1db74fc1b1d4fb5d12869a408638,
+      type: 3}
+  - character: {fileID: 11400000, guid: 4da7aa0cc903560438ebb8a48efb4f9c, type: 2}
+    texts:
+    - text: Se quiser voltar pro seu quarto e pegar seu Handbook, sinta-se livre.
+      language: 0
+    - text: If you want to go back to your room and get your Handbook, feel free.
+      language: 1
+    - text: "\u90E8\u5C4B\u306B\u623B\u3063\u3066\u30CF\u30F3\u30C9\u30D6\u30C3\u30AF\u3092\u53D6\u3063\u3066\u304F\u308B\u306A\u3089\u3001\u81EA\u7531\u306B\u3069\u3046\u305E\u3002"
+      language: 2
+    - text: "Si quieres volver a tu habitaci\xF3n y tomar tu Manual, si\xE9ntete
+        libre."
+      language: 3
+    - text: "Je\u015Bli chcesz wr\xF3ci\u0107 do swojego pokoju i wzi\u0105\u0107
+        sw\xF3j podr\u0119cznik, nie kr\u0119puj si\u0119."
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 969b442399408d744b10a564da710f66,
+      type: 3}
+  - character: {fileID: 11400000, guid: 4da7aa0cc903560438ebb8a48efb4f9c, type: 2}
+    texts:
+    - text: "Nem sempre nossa mem\xF3ria estar\xE1 fresca, fufufu!"
+      language: 0
+    - text: Memory won't always be fresh, fufufu!
+      language: 1
+    - text: "\u8A18\u61B6\u306F\u3044\u3064\u3082\u65B0\u9BAE\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3001\u3075\u3075\u3075\uFF01"
+      language: 2
+    - text: "\xA1Nuestra memoria no siempre estar\xE1 fresca, fufufu!"
+      language: 3
+    - text: "Nasza pami\u0119\u0107 nie zawsze b\u0119dzie \u015Bwie\u017Ca, fufufu!"
+      language: 4
+    halfBodyExpression: {fileID: 0}
+    fullBodyExpression: {fileID: 21300000, guid: 50ef1d603e116de4d98084e4f29935dc,
+      type: 3}

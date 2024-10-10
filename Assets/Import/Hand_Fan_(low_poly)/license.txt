@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hand Fan (low poly)
+* source:	https://sketchfab.com/3d-models/hand-fan-low-poly-e07a010602a942d4921e87959e0f5fc9
+* author:	Akimkhan (https://sketchfab.com/akimkhan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hand Fan (low poly)" (https://sketchfab.com/3d-models/hand-fan-low-poly-e07a010602a942d4921e87959e0f5fc9) by Akimkhan (https://sketchfab.com/akimkhan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
